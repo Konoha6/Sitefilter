@@ -1,0 +1,107 @@
+.Include</etc/dansguardian/lists/open-between-10-20>
+
+
+##########################
+# full-time access sites #
+##########################
+
+127.0.0.1
+localhost
+
+turtl.it
+turtlapp.com
+turtl.dev
+
+## komunikatory
+discordapp.com
+discordapp.net
+discord.gg
+weechat.org
+
+## poczta
+poczta.interia.pl
+logowanie.interia.pl
+medusa.elka.pw.edu.pl
+
+## gmail
+
+mail.google.com
+gstatic.com
+accounts.google.com
+accounts.google.pl
+hangouts.google.com
+client-channel.google.com
+googleusercontent.com
+clients6.google.com
+clients4.google.com
+clients2.google.com
+myaccount.google.com
+
+pekao.com.pl
+pekao24.pl
+
+openweathermap.org
+mapy.meteo.pl
+windy.com
+twojapogoda.pl
+pypi.org
+rozklad-pkp.pl
+
+#########
+# Radio #
+#########
+
+rpgamers.net
+tunein.com
+radiorivendell.ddns.net
+rainwave.cc
+textville.net
+gameowls.com
+mixlive.ie
+accuradio.com
+
+internet-radio.com  # zawiera:
+ukbassradio.com
+nauticradio.net
+partyvibe.com
+dnbstation.com
+electric-artwork.net 
+drums.ro
+psychoradio.org
+radioraving.com
+soullivefm.com
+tocatarumbera.com 
+marmusic.nl
+radioatlantis.club 
+maxitalo.com
+radioatlantide.it
+radionuages.blogspot.mx
+radiosiroco.es
+969theoasis.com
+NewWave.Radio
+flashbackalternatives.com
+metaphysicaltalkradio.com
+earxtacydarkwaveradio.com
+AmbientRadio.org
+
+# TODO sprawdx te ############
+ambientradio.org
+radio.garden  # tu trzeba poszukac fajnych stacji i do whitelisty
+cfservices000300c.arcgisonline.com
+
+# not working
+lounge-radio.com
+internetradiouk.com
+# check 
+electronics-notes.com
+s0.wp.com
+
+### pyradio
+listen.di.fm
+shouted.fm
+frequence3.net
+sky.fm
+slayradio.org
+somafm.com
+monkeyradio.org
+at2.ah.fm
