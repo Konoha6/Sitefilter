@@ -100,7 +100,6 @@ ebook-dl.com
 stackoverflow.com
 stackexchange.com
 docs.peewee-orm.com
-githubusercontent.com
 python.org
 pythontutor.com
 docs.org
@@ -175,6 +174,15 @@ pocoo.com
 mydevil.net
 tutorialspoint.com
 flaskapi.org
+tutsplus.com
+zetcode.com
+geeksforgeeks.org
+programiz.com
+pythonforbeginners.com
+stackabuse.com
+thepythonguru.com
+dev.to
+guru99.com
 
 
 # Rozrywka
@@ -266,6 +274,7 @@ arena.topcoder.com
 exercism.io
 
 # joga
+pinklotus.org
 divinelightyoga.com
 spiritrisingyoga.org
 kundaliniconsortium.org
@@ -395,8 +404,6 @@ js-sec.indexww.com
 secure.quantserve.com
 brilliant.org
 morele.net
-github.com
-gitlab.com
 brainscale.net
 code.google.com
 ang.pl
@@ -440,11 +447,9 @@ pluralsight.com
 mapquestapi.com
 mapquest.com
 geocode.farm
-githubapp.com
 ycombinator.com
 openstreetmap.org
 databasesoup.com
-#wikihow.com
 nrdc.org
 helion.pl
 phassociation.org
@@ -631,7 +636,6 @@ othermedium.com
 popotopie.blogspot.com
 subscene.com
 justjoin.it
-github.io
 freecodecamp.org
 tinyletter.com
 forbes.pl
@@ -804,6 +808,7 @@ repl.it
 peterbe.com
 osnews.com
 linuxpages.com
+crontab-generator.org
 asmeurer.com
 pragprog.com
 kite.com
@@ -1003,7 +1008,7 @@ fontawesome.com
 daftcode.pl
 calpoly.edu
 focusvision.com
-githubassets.com
+gitlab.com
 robertbrzoza.pl
 myersdetox.com
 chili24.pl
@@ -1059,7 +1064,6 @@ sikhmatrimonials.com
 spiritvoyage.com
 shaktakaur.com
 invinciblemusic.com
-bodymindspiritradio.com
 wimhofmethod.com
 gerrystarnes.com
 oloadcdn.net
@@ -1188,7 +1192,20 @@ symantec.com
 geovital.com
 ormus24.pl
 boomerangs.org
-# - test
+bochenia.pl
+uzdrowiciel.co
+niewiarygodne.com.pl
+olabloga.eu
+treborok.wordpress.com
+mistykabb.wordpress.com
+lancuchzycia.pl
+detektywprawdy.pl
+detektywzdrowia.pl
+czasy-ostateczne.pl
+drogadonieba.pl
+forum-chrzescijan.pl
+e-biblijna.pl
+jasnastronamocy.info
 
 #=======================
 # level 2
@@ -1225,6 +1242,7 @@ boomerangs.org
 #sputniknews.com
 #libristo.pl
 #wikipedia.org
+#wikihow.com
 #ketoacademy.com
 #wikimedia.org
 #nczas.com
