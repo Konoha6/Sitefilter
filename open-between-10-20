@@ -23,6 +23,7 @@ thegeekstuff.com
 ubuntu.com
 playonlinux.com
 linuxquestions.org
+freedesktop.org
 omgubuntu.co.uk
 merabheja.com
 linuxlinks.com
@@ -448,7 +449,6 @@ mapquestapi.com
 mapquest.com
 geocode.farm
 ycombinator.com
-openstreetmap.org
 databasesoup.com
 nrdc.org
 helion.pl
@@ -1206,21 +1206,28 @@ drogadonieba.pl
 forum-chrzescijan.pl
 e-biblijna.pl
 jasnastronamocy.info
+srebrokoloidalne.waw.pl
 
 #=======================
 # level 2
 #=======================
 
-#gg.pl
-#gg.hit.gemius.pl
+gg.pl
+gg.hit.gemius.pl
+#quora.com
 #youtube.com
 #googlevideo.com
-#youtu.be
 #ytimg.com
-#quora.com
-#duckduckgo.com
+#youtu.be
 #aliexpress.com
 #allegro.pl
+#ebay.com
+#amazon.com
+#amazon.de
+#amazon.co.uk
+#ceneo.pl
+
+#duckduckgo.com
 #bokus.com
 #sfd.pl
 #naturalnews.com
@@ -1260,6 +1267,3 @@ jasnastronamocy.info
 #spolecznosci.pl
 #openload.co
 #oload.fun
-
-#192.168.0.1
-#192.168.1.1
