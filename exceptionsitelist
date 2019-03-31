@@ -7,6 +7,8 @@
 
 127.0.0.1
 localhost
+192.168.0.1
+192.168.1.1
 
 turtl.it
 turtlapp.com
@@ -41,11 +43,19 @@ pekao.com.pl
 pekao24.pl
 
 openweathermap.org
+darksky.net
+openstreetmap.org
 mapy.meteo.pl
 windy.com
 twojapogoda.pl
 pypi.org
 rozklad-pkp.pl
+
+github.com
+githubusercontent.com
+githubassets.com
+github.io
+githubapp.com
 
 #########
 # Radio #
@@ -59,6 +69,8 @@ textville.net
 gameowls.com
 mixlive.ie
 accuradio.com
+bodymindspiritradio.com
+radiotime.com
 
 internet-radio.com  # zawiera:
 ukbassradio.com
@@ -82,12 +94,9 @@ NewWave.Radio
 flashbackalternatives.com
 metaphysicaltalkradio.com
 earxtacydarkwaveradio.com
-AmbientRadio.org
-
-# TODO sprawdx te ############
 ambientradio.org
-radio.garden  # tu trzeba poszukac fajnych stacji i do whitelisty
-cfservices000300c.arcgisonline.com
+radio.garden
+arcgisonline.com
 
 # not working
 lounge-radio.com
