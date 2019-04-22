@@ -30,14 +30,12 @@ linuxlinks.com
 linuxconfig.org
 linuxjournal.com
 alpinelinux.org
-archlinux.org
 gentoo.org
 null-byte.wonderhowto.com
 debian.org
 thegeekdiary.com
 raspberrypi.org
 linuxhint.com
-gnome.org
 gnu.org
 fishshell.com
 techcrunch.com
@@ -48,15 +46,22 @@ linuxiarze.pl
 linuxandubuntu.com
 techradar.com
 linoxide.com
+bastille-linux.org
+edgewall.com
+tigris.org
+netfilter.org
 
 ## programming blogs
+codeproject.com
+sfiddle.net
+taosecurity.com
+linuxsecurity.com
 hackernoon.com
 pythonhosted.org
 python-rq.org
 etianen.com
 docs.python-requests.org
 python-guide.org
-cipherdyne.org
 2daygeek.com
 binarytides.com
 sudo-juice.com
@@ -184,6 +189,11 @@ stackabuse.com
 thepythonguru.com
 dev.to
 guru99.com
+spirit.com
+cipherdyne.org
+blog.nknj.me
+allitebooks.com
+codeconquest.com
 
 
 # Rozrywka
@@ -204,6 +214,12 @@ krzyzoweczki.pl
 quizy-zagadki.pl
 krzyzowki.edu.pl
 krzyzowki.blox.pl
+
+porozmawiajmy.tv
+tagen.tv
+
+porozmawiajmy.tv
+tagen.tv
 
 porozmawiajmy.tv
 tagen.tv
@@ -408,12 +424,6 @@ kierunekzdrowie.com
 martabrzoza.pl
 ncbi.nlm.nih.gov
 well-typed.com
-slothparadise.com
-
-# TODO - posortuj ##############################################
-google-analytics.com
-wiki.c2.com
-rosettacode.org
 qsbr.ec.quoracdn.net
 translate.google.pl
 iotdev.m2s.pl
@@ -430,7 +440,6 @@ ang.pl
 zigbee.org
 elektronikab2b.pl
 link-labs.com
-jakdojade.pl
 rapidtables.com/tools/notepad.htm
 peterdavehello.org
 docker.com
@@ -513,7 +522,6 @@ supremecommander.com
 phys.org
 liveanddare.com
 magicznyogrod.pl
-allitebooks.com
 abidibo.net
 vimawesome.com
 bgr.com
@@ -534,7 +542,6 @@ businessinsider.com
 heartfulness.org
 heartfulnessmagazine.com
 duolingo.com
-gnome.org
 wp.com
 paranormalpl.files.wordpress.com
 public-api.wordpress.com
@@ -573,7 +580,6 @@ ocnd.eu
 cdn.nsstatic.net
 tag.crsspxl.com
 p.cpx.to
-e.akamai.net
 c.jsrdn.com
 display.apester.com
 rules.quantcount.com
@@ -663,6 +669,7 @@ stackoverflow.email
 topcoder.us13.list-manage.com
 userapi.com
 mimuw.edu.pl
+ufl.edu
 czarymary.pl
 arekmiazga.blogspot.com
 
@@ -761,7 +768,6 @@ adservice.google.com
 ads.avocet.io
 doubleclick.net
 msgfocus.com
-gnome-look.org
 cybercity.biz
 webupd8.org
 enlightenment.org
@@ -782,7 +788,6 @@ amplitude.com
 widget.userengage.com
 gemius.pl
 staticmorizon.com
-akamaized.net
 optimizely.com
 bam.nr-data.net
 criteo.com
@@ -836,6 +841,12 @@ hyper.is
 mozilla.com
 firefox.org
 lukesmith.xyz
+henrybayman.com
+clementine-player.org
+rextester.com
+henrybayman.com
+clementine-player.org
+rextester.com
 henrybayman.com
 clementine-player.org
 rextester.com
@@ -1167,11 +1178,17 @@ conviva.com
 vrv.co
 dlvr1.net
 collective-evolution.com
-track.aliexpress.com
+
+#aliexpress.com
+alicdn.com
 ilogisticaddress.aliexpress.com
 lighthouse.aliexpress.com
+login.aliexpress.com
 message.aliespress.com
-alicdn.com
+passport.aliexpress.com
+track.aliexpress.com
+trade.aliexpress.com
+
 inspirenationshow.com
 uduchowieni.pl
 instytutnoble.pl
@@ -1180,7 +1197,6 @@ bio-sklep24.pl
 brainhq.com
 stackoverrun.com
 play.pl
-akamaihd.net
 rockpapershotgun.com
 img.youtube.com
 orgonit.pl
@@ -1247,29 +1263,42 @@ time.is
 dateandtime.info
 haskforce.com
 mmhaskell.com
-colemak.com
-thetypingcat.com
-playwire.com
-michaelcapewell.com
-geekhack.org
-xahlee.info
 ubuntupit.com
 git-scm.com
 
 natura24.pl
 wodazycia.info
 osmoza.pl
+zdrowiemojapasja.pl  # ozonator
+nantespharma.pl  # nanowoda sklep
+courseofawakening.com
+awakening.com
+pagat.com  # zasady gier karcianych
+nootro.pl  # nootropy
+nootrohacker.com
+hermetyk.pl  # hermetyzm
+hermetic.com
+varnish-software.com
+fora.pl
+kuglarstwo.pl
+metacritic.com  # oceny gier PSP
+aclockworkbrain.com
+teamliquid.net
+duneii.com
+daskeyboard.com
+planszomania.pl
+whattomine.com
+thrivemovement.com
+google-analytics.com
+googleadservices.com
 
 
 #=======================
 # level 2
 #=======================
 
-aliexpress.com
 #olx.pl
 #gumtree.pl
-#gg.pl
-#gg.hit.gemius.pl
 #quora.com
 #youtube.com
 #googlevideo.com
@@ -1326,3 +1355,4 @@ aliexpress.com
 #kopalniawiedzy.pl
 #zielonaesencja.pl
 #dhgate.com
+#strefatajemnic.onet.pl
