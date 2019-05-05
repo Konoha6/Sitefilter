@@ -57,7 +57,6 @@ sfiddle.net
 taosecurity.com
 linuxsecurity.com
 hackernoon.com
-pythonhosted.org
 python-rq.org
 etianen.com
 docs.python-requests.org
@@ -69,7 +68,6 @@ lifewire.com
 unixmen.com
 hackerchick.com
 coderholic.com
-sourceforge.net  # http://pspvc.sourceforge.net/
 yawpitchroll.com
 ericplumb.com
 auth0.com
@@ -100,7 +98,6 @@ nedbatchelder.com
 dabeaz.com
 time.certum.pl
 pythontesting.net
-coverage.readthedocs.io
 pythonadventures.wordpress.com
 ebook-dl.com
 stackoverflow.com
@@ -124,8 +121,6 @@ simpleisbetterthancomplex.com
 obeythetestinggoat.com
 wsvincent.com
 fsf.org
-inkscape.org
-purl.org
 slant.co
 creativecommons.org
 sourceforge.net
@@ -163,7 +158,7 @@ freedompenguin.com
 opendns.com
 whatsmydns.net
 ipleak.net
-manjaro.org  # fajne wiki maja
+manjaro.org  # fajne wiki
 ponyorm.com
 thehackernews.com
 fossbytes.com
@@ -189,7 +184,6 @@ stackabuse.com
 thepythonguru.com
 dev.to
 guru99.com
-spirit.com
 cipherdyne.org
 blog.nknj.me
 allitebooks.com
@@ -223,7 +217,7 @@ manning.com
 # Rozrywka
 
 ## twitch
-twitch.tv
+#twitch.tv
 twitchcdn.net
 twitchsvc.net
 ttvnw.net
@@ -231,6 +225,7 @@ api.mixpanel.com
 summerhamster.com
 global.ssl.fastly.net
 static-cdn.jtvnw.net
+algolia.net
 
 ## krzyzowki
 szarada.net
@@ -241,19 +236,6 @@ krzyzowki.blox.pl
 
 porozmawiajmy.tv
 tagen.tv
-
-porozmawiajmy.tv
-tagen.tv
-
-porozmawiajmy.tv
-tagen.tv
-
-
-# studia
-
-pw.edu.pl
-studia.elka.pw.edu.pl
-mion.elka.pw.edu.pl
 
 
 # ufo i niewyjasnione
@@ -294,7 +276,6 @@ plugintoiot.com
 # kryptowaluty
 bitcoin.pl
 zukiewicz.com
-bitcoin.edu.pl
 kryptopomocnik.pl
 coinmarketcap.com
 ethereum.org
@@ -375,7 +356,6 @@ api24.pl
 prebid.org
 openx.net
 rubiconproject.com
-static.criteo.net
 
 # mickiewicz
 mickiewicz.net
@@ -440,7 +420,6 @@ livethenature.com
 dietetycy.org.pl
 tasteaholics.com
 vox.com
-healthline.com
 draxe.com
 ketodash.com
 olalalchf.pl
@@ -455,7 +434,6 @@ allrecipes.com
 # pozostale
 safemess.com
 reasonsforjesus.com
-pythonhosted.org
 kierunekzdrowie.com
 martabrzoza.pl
 ncbi.nlm.nih.gov
@@ -470,6 +448,7 @@ js-sec.indexww.com
 secure.quantserve.com
 brilliant.org
 morele.net
+x-kom.pl
 brainscale.net
 code.google.com
 ang.pl
@@ -534,7 +513,7 @@ tldp.org
 bash.org
 lvh.io
 supcomdb.com
-client.reactrjs.com
+reactjs.com
 adumen.com
 adserver.xpanama.net
 cdn.petametrics.com
@@ -549,7 +528,6 @@ livemeteors.com
 ipv6leak.com
 addfreestats.com
 platform.twitter.com
-cloudfront.net
 resources.infolinks.com
 cdn.delivr.net
 bootstrapcdn.com
@@ -569,7 +547,6 @@ s.pubmine.com
 p.skimresources.com
 teksty.gildia.pl
 techspot.com
-psychologytoday.com
 zendan14.co.uk
 tm.org
 tmhome.com
@@ -591,12 +568,9 @@ mahajana.net
 washingtonpost.com
 js-agent.newrelic.com
 berkeleywellness.com
-static.criteo.net
-js-agent.newrelic.com
 ethermine.org
 ethereum.gitbooks.io
 pegym.com
-sbmi.uth.edu
 independent.co.uk
 spring.org.uk
 googletagmanager.com
@@ -612,7 +586,7 @@ ithardware.pl
 cenapradu.strefa.pl
 pclab.pl
 ocnd.eu
-cdn.nsstatic.net
+nsstatic.net
 tag.crsspxl.com
 p.cpx.to
 c.jsrdn.com
@@ -631,7 +605,6 @@ api.pinterest.com
 tnwcdn.com
 licdn.com
 drive.google.com
-x-kom.pl
 videolan.org
 nearlyfreespeech.net
 docs.sqlalchemy.org
@@ -643,16 +616,14 @@ rtfd.org
 libreoffice.org
 m2s.pl
 mind-your-reality.com
-ag.108.pl
 slowacki.info.pl
 rapidtables.com
 czegoszukasz.org
-ubuntuforums.com
+ubuntuforums.org
 sklep-naturalna-medycyna.com.pl
 biopunkt.pl
 kukuklok.com
 winehq.org
-teamliquid.net
 daringfireball.net
 speakspeak.com
 neon24.pl
@@ -694,7 +665,6 @@ othermedium.com
 popotopie.blogspot.com
 subscene.com
 justjoin.it
-freecodecamp.org
 tinyletter.com
 forbes.pl
 off-guardian.org
@@ -702,8 +672,6 @@ flowix.com # (games.flowix.com)
 stackoverflow.email
 topcoder.us13.list-manage.com
 userapi.com
-mimuw.edu.pl
-ufl.edu
 czarymary.pl
 arekmiazga.blogspot.com
 
@@ -750,7 +718,6 @@ goodreads.com
 alibris.com
 huna.blogspot.com
 waterwillowmoon.com
-library.linode.com
 git-scm.com
 thenx.com
 service.thecloud.eu
@@ -779,13 +746,11 @@ itsfoss.com
 krystal28.wordpress.com
 precisionnutrition.com
 
-w3.org
 agiliq.com
 3bpo.com
 tician.de
 wlisiejnorze.pl
 simplilearn.com
-spiritvoyage.com
 feedburner.com
 hostowo.eu
 rssowl.org
@@ -806,7 +771,7 @@ cybercity.biz
 webupd8.org
 enlightenment.org
 journal.aps.org
-edu.pl
+edu.pl  # astrouw.edu.pl, haker.edu.pl, pw.edu.pl, mimuw.edu.pl, bitcoin.edu.pl
 edu.com.pl
 
 otodom.pl
@@ -820,7 +785,6 @@ creativecdn.com
 snrcdn.com
 amplitude.com
 widget.userengage.com
-gemius.pl
 staticmorizon.com
 optimizely.com
 bam.nr-data.net
@@ -834,7 +798,6 @@ outbrain.com
 omnitagjs.com
 casalemedia.com
 ligadx.com
-feedburner.com
 
 networkworld.com
 hyperscaleit.com
@@ -873,32 +836,20 @@ testandcode.com
 passwordsgenerator.net
 hyper.is
 mozilla.com
-firefox.org
 lukesmith.xyz
-henrybayman.com
 clementine-player.org
-rextester.com
-henrybayman.com
-clementine-player.org
-rextester.com
-henrybayman.com
-clementine-player.org
-rextester.com
-jdoodle.com
+henrybayman.com  # http://henrybayman.com/beyond-castaneda-and-don-juan/
 techrepublic.com
 fixitpc.pl
 cdaction.pl
 gparted.org
 computerhope.com
-osc.edu
 resistance2010.com
 secretenergy.com
 getvideo.org
 secretscience.com
 
-platform.twitter.com
 syndication.twitter.com
-hostowo.eu
 digidip.net
 
 premproxy.com
@@ -914,7 +865,6 @@ scribdassets.com
 tag.bounceexchange.com
 amplifypixel.outbrain.com
 tr.outbrain.com
-mozilla.org
 keybase.io
 flathub.com
 linkedin.com
@@ -925,7 +875,6 @@ alison.com
 alison-static.net
 w3schools.com
 drawspace.com
-yale.edu
 udemy.com
 coursera.org
 udacity.com
@@ -943,11 +892,9 @@ kovidgoyal.net
 exif.regex.info
 tineye.com
 imgops.com
-haker.edu.pl
 kastatic.org 
 kasandbox.org
 epicbrowser.com
-mozilla.net
 flathub.org
 devpy.me
 cloudflare.com
@@ -978,7 +925,6 @@ szafrankrokus.com.pl
 e-ogrodek.pl
 e-szafran.pl
 fajnyogrod.pl
-kovidgoyal.net
 purl.org
 lyonbros.com
 meyerweb.com
@@ -1030,8 +976,6 @@ mednatur.pl
 paleostrefa.pl
 akademiawitalnosci.pl
 manutea.pl
-zielonaesencja.pl
-greenharmony.pl
 shamanelder.com
 wodah2.com
 water-star.pl
@@ -1084,7 +1028,6 @@ diatlow.pl
 typescriptlang.org
 fontawesome.com
 daftcode.pl
-calpoly.edu
 focusvision.com
 gitlab.com
 robertbrzoza.pl
@@ -1102,12 +1045,10 @@ czep.net
 powerthoughtsmeditationclub.com
 codewars.com  #(Igor z tego robi zadania), 
 lifeextension.com
-gaia.com
 attunedvibrations.com
 myedenproject.wordpress.com
 susanwalterart.com
 magicaqua.de
-princeton.edu
 therealevidenceoftheparanormal.blogspot.com
 metimeforthemind.com
 uzdrawianie.org
@@ -1118,7 +1059,6 @@ dotykboga.pl
 sekrety-zdrowia.org
 adobeconnect.com
 photoreading.com
-ud.interia.pl
 tylkoastronomia.pl
 tylkomedycyna.pl
 wordpress.com
@@ -1160,7 +1100,6 @@ shamanicconnection.com
 shamanportal.com
 abby-wynne.com
 zoharstargate.com
-cdn.shopify.com
 shopifycdn.com
 
 cainiao.com
@@ -1194,7 +1133,15 @@ komputronik.pl
 sandraingerman.com
 huna.net.pl
 esalen.org
+rythmia.link
 thesacredscience.com
+spirit.com
+thespiritscience.net
+spiritsciencecentral.com
+spiritstudios.selz.com
+thepyramidcenter.org
+theocgproject.com
+gaia.com
 shamanictraining.com
 underworldclassroom.com
 crunchyroll.com  # anime mozna ogladac
@@ -1232,8 +1179,6 @@ bio-sklep24.pl
 brainhq.com
 stackoverrun.com
 play.pl
-rockpapershotgun.com
-img.youtube.com
 orgonit.pl
 world-of-lucid-dreaming.com
 blackhealthwealth.com
@@ -1273,7 +1218,6 @@ uzdrowiciel.co
 niewiarygodne.com.pl
 olabloga.eu
 treborok.wordpress.com
-mistykabb.wordpress.com
 lancuchzycia.pl
 detektywprawdy.pl
 detektywzdrowia.pl
@@ -1313,6 +1257,7 @@ nootro.pl  # nootropy
 nootrohacker.com
 hermetyk.pl  # hermetyzm
 hermetic.com
+hermetics.com  # /pdf/kyballion.pdf
 varnish-software.com
 fora.pl
 kuglarstwo.pl
@@ -1330,6 +1275,131 @@ eko-znaki.pl
 alternative.me
 techshout.com
 osalt.com
+smaker.pl
+izagotuje.pl
+nicponwkuchni.pl
+lawendowy-dom.com.pl
+wikibooks.org
+goinbigdata.com
+aboullaite.me
+bambielli.com
+freecodecamp.org
+nickjanetakis.com
+til.codes
+ctl.io
+johnzaccone.io
+devteam.space
+devopscube.com
+edureka.co
+aws.amazon.com
+codeship.com
+ibm.com
+findip-address.com
+ipinfo.io
+ip-address.com
+shellcheck.net
+atom.io
+linuxcommand.org
+virtux.com
+healthline.com  # https://www.healthline.com/nutrition/vitamin-b-foods
+clearspring.co.uk
+primalpalate.com
+checkupdown.com
+stackshare.io
+spacemacs.org
+web-design-weekly.com
+onextrapixel.com
+hongkiat.com
+pageera.com
+sitepoint.com
+shopify.com
+depesz.com
+sqlauthority.com
+madhur.co.in
+geekhack.org
+rapidtyping.com  # na windows rozpoznaje keyboard layout i uczy Cię go; działa pod wine
+howtoforge.com
+khjk.org  # http://www.khjk.org/log/2011/jan/carpalx.html `setxkbmap "carpalx(qgmlwy)"`
+uni.wroc.pl
+magit.vc
+scalameta.org
+linux.die.net
+tiger.com.pl
+xemacs.org
+ergodox-ez.com
+ergonomictrends.com
+ultimatehackingkeyboard.com
+thehumansolution.com
+ufomg.com
+ufogen.com
+ufonewshub.com
+4ufos.com
+antergos.com
+arcolinuxd.com
+zapier.com
+vimcast.org
+codeyarns.com
+openhub.net
+researchgate.net
+tuxarena.com
+techsupportalert.com
+pylonsproject.org
+ubuntugeek.com
+dreampie.org
+bpython-interpreter.org
+terriblecode.com
+libhunt.com
+ipython.org
+y2d.com
+fosstack.com
+dataquest.io
+spyder-ide.org
+domator24.com
+img.buzzfeed.com
+hackaday.com
+hpe.com  #hpe.com/us/en/insights/articles/9-great-mechanical-keyboards-for-coders-1707.html
+aligulac.com
+kacper-oleksiak.pl
+perpetualpc.net
+ubuntuhandbook.org
+linuxmint.com
+computerbeginnersguides.com
+xahlee.info  # http://xahlee.info/kbd/ergonomic_keyboards.html
+asus.com
+asus-europe.eu
+notebookcheck.net
+avstore.pl
+elektroda.pl
+hotfix.pl
+netgate.com
+comparitech.com
+consciousness.arizona.edu
+wustl.edu
+ucdavis.edu
+calpoly.edu
+harvard.edu  # https://www.health.harvard.edu/staying-healthy/best-source-of-vitamins-your-plate-not-your-medicine-cabinet
+princeton.edu
+yale.edu
+osc.edu
+ufl.edu
+sbmi.uth.edu
+bensound.com  # muzyka
+shroomery.org  # magic shrooms
+drunvalo.net
+paradigmshiftlondon.com
+meltingasphalt.com  # https://www.meltingasphalt.com/interactive/going-critical/
+theverge.com
+noetic.org
+biontologyarizona.com
+lynnemctaggart.com
+masaru-emoto.net
+123rf.com
+ted.com
+atransc.org  # materialy
+avalonlibrary.net  # swietne ksiazki
+edgarcayce.org
+yang-sheng.com
+tachyon-aanbieding.eu
 
 
 #=======================
@@ -1395,3 +1465,4 @@ osalt.com
 #zielonaesencja.pl
 #dhgate.com
 #strefatajemnic.onet.pl
+#psychologytoday.com
