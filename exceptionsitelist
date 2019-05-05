@@ -22,6 +22,12 @@ weechat.org
 
 ## poczta
 poczta.interia.pl
+ud.interia.pl
+avatars-api.interia.pl
+gemius.pl
+tol.interia.pl
+hit.interia.pl
+static.criteo.net
 iplsc.com
 static.criteo.net
 logowanie.interia.pl
@@ -52,6 +58,7 @@ windy.com
 twojapogoda.pl
 pypi.org
 rozklad-pkp.pl
+pythonhosted.org
 
 github.com
 githubusercontent.com
@@ -130,6 +137,14 @@ jakdojade.pl
 archlinux.org
 gnome.org
 gnome-look.org
+purl.org
+creativecommons.org
+sourceforge.net  # pspvc.sourceforge.net
+inkscape.org
+xmlns.com
+usefulinc.com
+infr.co
+ag.108.pl
 
 # steam
 steamcommunity.com
@@ -138,10 +153,21 @@ steamgames.com
 steamusercontent.com
 steamcontent.com
 steamstatic.com
+akamai.net
 akamaihd.net
-e.akamai.net
 akamaized.net
 akamaitechnologies.com
+w3.org
+steamloopback.host
+reactjs.org
+rockpapershotgun.com
+img.youtube.com
+cloudfront.net
+linode.com
+arin.net
+valvesoftware.com
+162.254.197.181  # te ip sa bezpieczne, potrzebne do "steam"
+155.133.230.50
 
 # gadu-gadu
 #gg.pl
