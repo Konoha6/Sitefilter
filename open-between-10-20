@@ -79,8 +79,6 @@ grokcode.com
 bugsnag.com
 journal.stuffwithstuff.com
 jakubturek.com
-readthedocs.io
-readthedocs.org
 pythonlibrary.org
 giantflyingsaucer.com
 eurion.net
@@ -439,7 +437,6 @@ martabrzoza.pl
 ncbi.nlm.nih.gov
 well-typed.com
 qsbr.ec.quoracdn.net
-translate.google.pl
 iotdev.m2s.pl
 dev.entrouvert.org
 openssl.org
@@ -886,8 +883,9 @@ firefox.com
 kde.org
 redirectingat.com
 typingclub.com
-ayahuasca.net.pl
 kovidgoyal.net
+ayahuasca.net.pl
+ayahuasca.org.pl
 
 exif.regex.info
 tineye.com
@@ -1385,6 +1383,7 @@ ufl.edu
 sbmi.uth.edu
 bensound.com  # muzyka
 shroomery.org  # magic shrooms
+tealswan.com
 drunvalo.net
 paradigmshiftlondon.com
 meltingasphalt.com  # https://www.meltingasphalt.com/interactive/going-critical/
@@ -1400,10 +1399,18 @@ avalonlibrary.net  # swietne ksiazki
 edgarcayce.org
 yang-sheng.com
 tachyon-aanbieding.eu
+anasuya.com  # http://www.anasuya.com/trixter/
+djangosnippets.org
+elijahraymusic.com
+bandamp.com
+irongeek.com
+sivanandaonline.org
+ananda.org
+samyama.com
+yogapedia.com
+world-mysteries.com
 
 
-#=======================
-# level 2
 #=======================
 
 #olx.pl
@@ -1466,3 +1473,5 @@ tachyon-aanbieding.eu
 #dhgate.com
 #strefatajemnic.onet.pl
 #psychologytoday.com
+#? kopalniawiedzy.pl
+#collective-evolution.com

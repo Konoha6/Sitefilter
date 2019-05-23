@@ -46,6 +46,13 @@ clients6.google.com
 clients4.google.com
 clients2.google.com
 myaccount.google.com
+ogs.google.com
+
+contacts.google.com
+support.google.com
+groups.google.com
+translate.google.com
+translate.google.pl
 
 pekao.com.pl
 pekao24.pl
@@ -65,6 +72,9 @@ githubusercontent.com
 githubassets.com
 github.io
 githubapp.com
+
+readthedocs.io
+readthedocs.org
 
 #########
 # Radio #
@@ -110,6 +120,7 @@ earxtacydarkwaveradio.com
 ambientradio.org
 radio.garden
 arcgisonline.com
+arcgis.com
 
 # not working
 lounge-radio.com
@@ -137,14 +148,17 @@ jakdojade.pl
 archlinux.org
 gnome.org
 gnome-look.org
+opendesktop.org
 purl.org
 creativecommons.org
 sourceforge.net  # pspvc.sourceforge.net
 inkscape.org
 xmlns.com
 usefulinc.com
-infr.co
 ag.108.pl
+infr.co
+rocket.chat
+5.39.127.200
 
 # steam
 steamcommunity.com
@@ -166,8 +180,12 @@ cloudfront.net
 linode.com
 arin.net
 valvesoftware.com
+valve.net
 162.254.197.181  # te ip sa bezpieczne, potrzebne do "steam"
+162.254.198.131
 155.133.230.50
+155.133.248.53
+37.139.1.159
 
 # gadu-gadu
 #gg.pl
