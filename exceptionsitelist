@@ -1,4 +1,5 @@
 .Include</etc/dansguardian/lists/open-between-10-20>
+.Include</etc/dansguardian/lists/informatics>
 
 
 ##########################
@@ -31,11 +32,11 @@ static.criteo.net
 iplsc.com
 static.criteo.net
 logowanie.interia.pl
-medusa.elka.pw.edu.pl
 
 ## gmail
 
 mail.google.com
+drive.gooogle.com
 gstatic.com
 accounts.google.com
 accounts.google.pl
@@ -139,6 +140,8 @@ somafm.com
 monkeyradio.org
 at2.ah.fm
 
+3ho.org
+3ho.pl
 jogazdrowia.pl
 poczta-polska.pl
 pocztex.pl
@@ -151,7 +154,7 @@ gnome-look.org
 opendesktop.org
 purl.org
 creativecommons.org
-sourceforge.net  # pspvc.sourceforge.net
+sourceforge.net
 inkscape.org
 xmlns.com
 usefulinc.com
@@ -181,7 +184,7 @@ linode.com
 arin.net
 valvesoftware.com
 valve.net
-162.254.197.181  # te ip sa bezpieczne, potrzebne do "steam"
+162.254.197.181  # potrzebne do "steam"
 162.254.198.131
 155.133.230.50
 155.133.248.53
@@ -196,3 +199,10 @@ rlcdn.com
 agkn.com
 openx.net
 blismedia.com
+
+kukuklok.com
+onlineclock.net
+timeanddate.com
+online-stopwatch.com
+timer-tab.com
+insighttimer.com

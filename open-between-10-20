@@ -7,211 +7,6 @@
 wolframalpha.com
 
 
-# IT
-
-## Django
-djangoproject.com
-restapiswithdjango.com
-djangostars.com
-django-rest-framework.org
-
-## Linux
-serverfault.com
-askubuntu.com
-superuser.com
-thegeekstuff.com
-ubuntu.com
-playonlinux.com
-linuxquestions.org
-freedesktop.org
-omgubuntu.co.uk
-merabheja.com
-linuxlinks.com
-linuxconfig.org
-linuxjournal.com
-alpinelinux.org
-gentoo.org
-null-byte.wonderhowto.com
-debian.org
-thegeekdiary.com
-raspberrypi.org
-linuxhint.com
-gnu.org
-fishshell.com
-techcrunch.com
-nocnypingwin.pl
-computingforgeeks.com
-gentoo.org
-linuxiarze.pl
-linuxandubuntu.com
-techradar.com
-linoxide.com
-bastille-linux.org
-edgewall.com
-tigris.org
-netfilter.org
-
-## programming blogs
-codeproject.com
-sfiddle.net
-taosecurity.com
-linuxsecurity.com
-hackernoon.com
-python-rq.org
-etianen.com
-docs.python-requests.org
-python-guide.org
-2daygeek.com
-binarytides.com
-sudo-juice.com
-lifewire.com
-unixmen.com
-hackerchick.com
-coderholic.com
-yawpitchroll.com
-ericplumb.com
-auth0.com
-blog.danlew.net
-realpython.com
-coderwall.com
-pythontesting.net
-grokcode.com
-bugsnag.com
-journal.stuffwithstuff.com
-jakubturek.com
-pythonlibrary.org
-giantflyingsaucer.com
-eurion.net
-spf13.com
-cdrf.co
-mike.tig.as
-vimawesome.com
-realpython.com
-krzysztofzuraw.com
-abidibo.net
-hak5.org
-pymotw.com
-nessy.info
-nedbatchelder.com
-dabeaz.com
-time.certum.pl
-pythontesting.net
-pythonadventures.wordpress.com
-ebook-dl.com
-stackoverflow.com
-stackexchange.com
-docs.peewee-orm.com
-python.org
-pythontutor.com
-docs.org
-vim.org
-vim.wikia.com
-docker.io
-pythonprogramming.net
-codingdojo.com
-makeuseof.com
-theinquirer.net
-i-programmer.info
-suckless.org
-caktusgroup.com
-programcreek.com
-simpleisbetterthancomplex.com
-obeythetestinggoat.com
-wsvincent.com
-fsf.org
-slant.co
-creativecommons.org
-sourceforge.net
-tastypieapi.org
-fullstackpython.com
-djangobook.com
-twoscoopspress.com
-opencompute.org
-linuxboot.org
-twoscoopspress.com
-haskell.org
-haskellstack.org
-haskell-lang.org
-learnyouahaskell.com
-tryhaskell.org
-schoolofhaskell.com
-maketecheasier.com
-talkpython.fm
-podcastinit.com
-pythonbytes.fm
-rhettinger.wordpress.com
-landoflinux.com
-linux.com
-webhostinggeeks.com
-debiantutorials.com
-networkworld.com
-tecmint.com
-linuxconfig.org
-networkworld.com
-ostechnix.com
-redhat.com
-alternativeto.net
-linuxappfinder.com
-freedompenguin.com
-opendns.com
-whatsmydns.net
-ipleak.net
-manjaro.org  # fajne wiki
-ponyorm.com
-thehackernews.com
-fossbytes.com
-ghacks.net
-opensource.com
-i3wm.org
-debian.net
-deque.blog
-celeryproject.org
-4programmers.net
-launchpad.net
-lisp.org
-pocoo.com
-mydevil.net
-tutorialspoint.com
-flaskapi.org
-tutsplus.com
-zetcode.com
-geeksforgeeks.org
-programiz.com
-pythonforbeginners.com
-stackabuse.com
-thepythonguru.com
-dev.to
-guru99.com
-cipherdyne.org
-blog.nknj.me
-allitebooks.com
-codeconquest.com
-squarespace.com
-typekit.net
-yowconference.com
-reflex-frp.org  # framework funkcyjny do frontendu
-
-# Haskell / Idris online
-rextester.com
-jquery.com
-carbonads.com
-jdoodle.com
-tutorialspoint.com
-ampproject.org
-amp.dev
-paiza.io
-onlinegdb.com
-tawk.to
-addthis.com
-jsdelivr.net
-jsdelivr.com
-tryidris.herokuapp.com  # genialne
-tio.run
-leeorengel.com  # http://leeorengel.com/hello-idris/ ; https://news.ycombinator.com/item?id=10850205; https://github.com/idris-hackers/idris-vim
-fieldstrength.org  # https://fieldstrength.org/learn-idris/
-manning.com
-
-
 # Rozrywka
 
 ## twitch
@@ -260,16 +55,6 @@ vismaya-maitreya.pl
 koniec-swiata.org
 emilcin.com
 
-# IOT::bosch
-bosch-connectivity.com
-bosch.com
-conrad.pl
-mouser.com
-digikey.com
-rapidonline.com
-ti.com
-element14.com
-plugintoiot.com
 
 # kryptowaluty
 bitcoin.pl
@@ -283,11 +68,6 @@ coindesk.com
 ethermine.org
 motherboard.vice.com
 bitinfocharts.com
-
-# programming training
-topcoder.com
-arena.topcoder.com
-exercism.io
 
 # joga
 joga.hof.pl
@@ -309,8 +89,6 @@ lifechip.pl
 maciejwielobob.pl
 piotrskarga.pl
 jogakundalini.waw.pl
-3ho.org
-3ho.pl
 rozwojduchowy.net
 wingmakers.com
 wingmakers.prv.pl
@@ -356,7 +134,7 @@ openx.net
 rubiconproject.com
 
 # mickiewicz
-mickiewicz.net
+#mickiewicz.net
 
 # dieta i zdrowie
 pyszneeko.pl
@@ -465,6 +243,7 @@ oh-my.fish
 wttr.in
 supcom.wikia.com
 supcom2.wikia.com
+overclockers.com.au
 overclockers.com
 tfwiki.net
 strategywiki.org
@@ -473,7 +252,6 @@ faqs.org
 wikia.nocookie.net
 wikia-services.com
 faforever.com
-overclockers.com.au
 cdn.wikimg.net
 whenisthenextsteamsale.com
 effbot.org
@@ -601,7 +379,6 @@ thenextweb.com
 api.pinterest.com
 tnwcdn.com
 licdn.com
-drive.google.com
 videolan.org
 nearlyfreespeech.net
 docs.sqlalchemy.org
@@ -619,7 +396,6 @@ czegoszukasz.org
 ubuntuforums.org
 sklep-naturalna-medycyna.com.pl
 biopunkt.pl
-kukuklok.com
 winehq.org
 daringfireball.net
 speakspeak.com
@@ -840,7 +616,6 @@ techrepublic.com
 fixitpc.pl
 cdaction.pl
 gparted.org
-computerhope.com
 resistance2010.com
 secretenergy.com
 getvideo.org
@@ -909,11 +684,6 @@ dzone.com
 testingplus.me
 serenity-bdd.info
 baselinker.com
-#onlinealarmkur.com  # cos nie dziala
-kukuklok.com
-onlineclock.net
-timeanddate.com
-online-stopwatch.com
 omgubuntu.co.uk
 jonobacon.com
 mariospr.org
@@ -1007,7 +777,6 @@ brianhaddock.com
 eucharystycznyplomien.pl
 instytutarete.pl
 akademiaducha.pl
-timer-tab.com
 boatloadpuzzles.com
 powietrze.gios.gov.pl
 polskialarmsmogowy.pl
@@ -1196,7 +965,6 @@ brat.pl
 gumtree.pl
 ebayimg.com
 ishafoundation.org
-insighttimer.com
 innerengineering.com
 eatthismuch.com
 argonauta.pl
@@ -1231,7 +999,6 @@ monkeyuser.com
 hackr.io
 geekflare.com
 neowin.net
-mankier.com
 antyparch.pl
 godlikeproductions.com
 alipayobjects.com
@@ -1242,7 +1009,9 @@ haskforce.com
 mmhaskell.com
 ubuntupit.com
 git-scm.com
+codeguru.com
 
+dominikanie.pl
 natura24.pl
 wodazycia.info
 osmoza.pl
@@ -1316,12 +1085,10 @@ sqlauthority.com
 madhur.co.in
 geekhack.org
 rapidtyping.com  # na windows rozpoznaje keyboard layout i uczy Cię go; działa pod wine
-howtoforge.com
 khjk.org  # http://www.khjk.org/log/2011/jan/carpalx.html `setxkbmap "carpalx(qgmlwy)"`
 uni.wroc.pl
 magit.vc
 scalameta.org
-linux.die.net
 tiger.com.pl
 xemacs.org
 ergodox-ez.com
@@ -1400,23 +1167,154 @@ edgarcayce.org
 yang-sheng.com
 tachyon-aanbieding.eu
 anasuya.com  # http://www.anasuya.com/trixter/
-djangosnippets.org
 elijahraymusic.com
-bandamp.com
 irongeek.com
 sivanandaonline.org
 ananda.org
 samyama.com
 yogapedia.com
 world-mysteries.com
+diffen.com  # jak slant.co
+krzysztof-jackowski.info
+jordanbpeterson.com
+kondor.de  # shaman
+microhowto.info  # linux
+harvard.edu # health.harvard.edu
+abbeynormalswisdomquest.com
+wiedzaojcapio.pl
+typekit.net
+hotjar.com
+devttys0.com
+tacnetsol.com
+gtvhacker.com
+wired.com
+shigatse.pl
+layah.org
+yogacentre.org
+pdfonlinereader.com  # można czytać bez pobrania na dysk
+pdfpro.co
+thedailymeditation.com
+indiadivine.org
+speakingtree.in
+gnosticteachings.org
+yogainternational.com
+wisdomlib.org
+acenyethehackerguy.com
+peterhedron.com
+templeofeden.com
+bandcamp.com
+halftome.info
+foreignpolicy.com
+rp.pl
+rozmowyzaniolami.pl  # te 5 są nt. QHHT, bardzo ciekawa technika rozmowy z Higher Self
+qhhtofficial.com
+dolorescannon.com
+mikoterapie.pl  # http://www.mikoterapie.pl/co-robimy/metody
+suzannespoonerqhht.com
+tauksuzanne.com
+theartofuniversalknowing.com  # ciekawa technika TAUK
+merkaba.pl
+swietageometria.info
+agnieszkajurko.pl
+mindfold.com
+planetaziemia.net
+portal-duchowy.pl
+wydrukujemy.to
+multiprint.pl
+druk-ara.pl
+druk24h.pl
+drukomat.pl
+openprint.pl
+cyfrus.pl
+greentohealth.com
+greentohealth.weebly.com
+tm.net.pl
+joga-joga.pl
+mantra.pl
+serendipity.li
+selfthrive.com
+meditationtrust.com
+nerdycreator.com  # https://nerdycreator.com/bookclub/best-books-on-meditation-for-beginners/
+allabout-meditation.com
+unifycosmos.com  # https://unifycosmos.com/transcend-mental-meditation-tmm/
+zoharstargate.com
+grahamhancock.com
+joerogan.net
+ghowen.me
+columbia.edu
+nexon.net
+keyofsolomon.org
+theresonanceproject.org
+secretsinplainsight.com
+innerawakening.org
+greatapetrust.org
+soundcloud.com
+kriteachings.org
+spirits.com
+quantumplayer.com
+the-spoiler.com  # http://www.the-spoiler.com/RPG/Valkyrie.studios/septerra.core.2.html
+nightsolo.net
+wsgf.org
+player.vimeo.com
+googlevideo.com
+allitebooks.com
+allitebooks.org
+thecamels.org
+kik.pcz.pl
+osxdaily.com
+hypexr.org
+consideratecode.com
+michalkiewicz.pl
+cloudbees.com
+redhat.com
+servicenow.com
+opakowania.com.pl
+
+# non-duality:
+tuiteraz.eu
+sztukadobregozycia.pl
+lifewithoutacentre.com
+scienceandnonduality.com
+endless-satsang.com
+anaditeaching.com
+buddhistinquiry.org
+deconstructingyourself.com
+david.i-am-one.net
+non-duality.rupertspira.com
+
+# bakti yoga:
+sivananda.eu
+britannica.com
+bhaktimarga.org
+yogajournal.com
+yogaindailylife.org
+yogabasics.com
+sivanandaorleans.org
+expandinglight.org
+krishna.com
+yogi.press
+consciouslifestylemag.com
+
+# hezychazm
+communiocrucis.pl
+tyniec.com.pl
+wiara.pl
+katolik.pl
+zycie-duchowe.pl
+medytacja.waw.pl
 
 
 #=======================
+#sndcdn.com
+#pdfdrive.com  
+#gamespot.com
+#deon.pl
+#znak.com.pl
+#odzywianie.info.pl
 #olx.pl
 #gumtree.pl
 #quora.com
 #youtube.com
-#googlevideo.com
 #ytimg.com
 #youtu.be
 #allegro.pl
@@ -1452,9 +1350,6 @@ world-mysteries.com
 #ketoacademy.com
 #wikimedia.org
 #nczas.com
-#soundcloud.com
-#sndcdn.com
-#connect.facebook.net
 #pirc.pl
 #freenode.org
 #freenode.net
@@ -1471,5 +1366,4 @@ world-mysteries.com
 #zielonaesencja.pl
 #dhgate.com
 #strefatajemnic.onet.pl
-#? kopalniawiedzy.pl
 #collective-evolution.com
