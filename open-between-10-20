@@ -24,11 +24,11 @@ algolia.net
 szarada.net
 krzyzoweczki.pl
 quizy-zagadki.pl
-krzyzowki.edu.pl
 krzyzowki.blox.pl
 
 porozmawiajmy.tv
 tagen.tv
+transferuj.pl
 
 
 # ufo i niewyjasnione
@@ -130,13 +130,13 @@ cse.google.com
 traq.li
 api24.pl
 prebid.org
-openx.net
 rubiconproject.com
 
 # mickiewicz
 #mickiewicz.net
 
 # dieta i zdrowie
+ekodlaciebie.pl  # ormus orme botanique - iryd, ruten
 pyszneeko.pl
 ekonisza.pl
 ekogram.pl
@@ -155,7 +155,6 @@ olgasmile.com
 martkanatura.pl
 thevegg.com
 eatwild.com
-ketoreva.blogspot.com
 localharvest.org
 fooder.pl
 grillbar.org
@@ -173,10 +172,14 @@ halsa.pl
 dietdoctor.com
 ruled.me
 ketoconnect.net
+ketoreva.blogspot.com
 dashdiet.org
 eatright.org
 livestrong.com
 ewadabrowska.pl
+kwestiasmaku.com
+aniagotuje.pl
+gotujwstylueko.pl
 prod-dietdoctor-d3xpwb8eqyot4ma5.stackpathdns.com
 eatingacademy.com
 blogtalkradio.com
@@ -206,6 +209,9 @@ sloikibabyjagi.pl
 biozfarmy.pl
 vegierecipes.blogspot.com
 allrecipes.com
+myfoodtherapy.pl
+przepisybezglutenowe.pl
+jadlonomia.com
 
 # pozostale
 safemess.com
@@ -225,7 +231,6 @@ brilliant.org
 morele.net
 x-kom.pl
 brainscale.net
-code.google.com
 ang.pl
 zigbee.org
 elektronikab2b.pl
@@ -239,6 +244,7 @@ c2.com
 awesomewm.org
 neovim.io
 man7.org
+debuntu.org
 oh-my.fish
 wttr.in
 supcom.wikia.com
@@ -258,14 +264,9 @@ effbot.org
 onethingwell.org
 xdebug.org
 bitbucket.org
-sourceforge.net
-oreilly.com
 ehow.com
 cheatography.com
 pluralsight.com
-mapquestapi.com
-mapquest.com
-geocode.farm
 ycombinator.com
 databasesoup.com
 nrdc.org
@@ -290,14 +291,10 @@ lvh.io
 supcomdb.com
 reactjs.com
 adumen.com
-adserver.xpanama.net
 cdn.petametrics.com
-wikia-d.openx.net
 as.casalemedia.com
 ib.adnxs.com
 fastlane.rubiconproject.com
-adserver-us.adtech.advertising.com
-c.amazon-adsystem.com
 docs.pytest.org
 livemeteors.com
 ipv6leak.com
@@ -310,8 +307,6 @@ supremecommander.com
 phys.org
 liveanddare.com
 magicznyogrod.pl
-abidibo.net
-vimawesome.com
 bgr.com
 rackcdn.com
 skimlinks.com
@@ -343,21 +338,16 @@ mahajana.net
 washingtonpost.com
 js-agent.newrelic.com
 berkeleywellness.com
-ethermine.org
 ethereum.gitbooks.io
 pegym.com
 independent.co.uk
 spring.org.uk
-googletagmanager.com
 genesis-mining.com
-cryptocompare.com
 cryptosrus.com
 jkcrypto.com
 cdn.edl.cloud
 mariuszalin.pl
 ariusz.pl
-kryptopomocnik.pl
-ithardware.pl
 cenapradu.strefa.pl
 pclab.pl
 ocnd.eu
@@ -379,10 +369,8 @@ thenextweb.com
 api.pinterest.com
 tnwcdn.com
 licdn.com
-videolan.org
 nearlyfreespeech.net
 docs.sqlalchemy.org
-docs.google.com
 tox.chat
 sqlalche.me
 pytest-cov.rtfd.org
@@ -436,7 +424,6 @@ golang.org
 godoc.org
 othermedium.com
 popotopie.blogspot.com
-subscene.com
 justjoin.it
 tinyletter.com
 forbes.pl
@@ -448,8 +435,6 @@ userapi.com
 czarymary.pl
 arekmiazga.blogspot.com
 
-w3.org
-coreapi.org
 self.com
 trylowcarb.com
 thisisbio.pl
@@ -458,11 +443,8 @@ cdn.onesignal.com
 cdn.geni.us
 yummly.com
 content.jwplatform.com
-cloudfront.net
-googleapis.com
 wsdib.com
 ockopolelubelskie.pl
-jquery.com
 alexmarandon.com
 poczta.o2.pl
 
@@ -482,9 +464,6 @@ iulotka.pl
 okazjum.pl
 simple-market.pl
 ticketmaster.pl
-0.client-channel.google.com
-play.google.com
-news.google.pl
 openlibrary.org
 betterworldbooks.com
 goodreads.com
@@ -494,14 +473,6 @@ waterwillowmoon.com
 git-scm.com
 thenx.com
 service.thecloud.eu
-clients4.google.com
-callendar.google.com
-contacts.google.com
-clients6.google.com
-apis.google.com
-tasks.google.com
-ogs.google.com
-clients2.google.com
 eu-central571.discord.gg
 kupdf.com
 sacred-magick.com
@@ -509,19 +480,13 @@ borderlandsciences.org
 vebuka.com
 startwithwhy.com
 ebay.com
-kivy.org
 developer.android.com
 highexistence.com
 theregister.co.uk
-tmuxcheatsheet.com
-amazonaws.com
-itsfoss.com
 krystal28.wordpress.com
 precisionnutrition.com
 
-agiliq.com
 3bpo.com
-tician.de
 wlisiejnorze.pl
 simplilearn.com
 feedburner.com
@@ -529,23 +494,19 @@ hostowo.eu
 rssowl.org
 jeffknupp.com
 sebastianraschka.com
-tician.de
-documen.tician.de
 a.pub.network
 netdna-ssl.com
 futurecdn.net
 indexww.com
-c.amazon-adsystem.com
-adservice.google.com
-ads.avocet.io
 doubleclick.net
 msgfocus.com
 cybercity.biz
 webupd8.org
 enlightenment.org
 journal.aps.org
-edu.pl  # astrouw.edu.pl, haker.edu.pl, pw.edu.pl, mimuw.edu.pl, bitcoin.edu.pl
-edu.com.pl
+#edu.pl  # astrouw.edu.pl, haker.edu.pl, pw.edu.pl, mimuw.edu.pl, bitcoin.edu.pl
+# krzyzowki.edu.pl rk.edu.pl
+#edu.com.pl
 
 otodom.pl
 morizon.pl
@@ -572,9 +533,7 @@ omnitagjs.com
 casalemedia.com
 ligadx.com
 
-networkworld.com
 hyperscaleit.com
-trmm.net
 gitter.im
 oneriver.pl
 longair.net
@@ -594,31 +553,20 @@ stackoverflow.blog
 zvon.org
 repl.it
 peterbe.com
-osnews.com
-linuxpages.com
-crontab-generator.org
-asmeurer.com
 pragprog.com
 kite.com
 rcn.com
 news.sky.com
-commandlinefu.com
 followyourheart.com
 xkcd.com
 testandcode.com
 passwordsgenerator.net
 hyper.is
-mozilla.com
-lukesmith.xyz
-clementine-player.org
 henrybayman.com  # http://henrybayman.com/beyond-castaneda-and-don-juan/
-techrepublic.com
 fixitpc.pl
 cdaction.pl
-gparted.org
 resistance2010.com
 secretenergy.com
-getvideo.org
 secretscience.com
 
 syndication.twitter.com
@@ -628,7 +576,6 @@ premproxy.com
 proxy-list.org
 codinghorror.com
 airbrake.io
-feedproxy.google.com
 verywellfit.com
 cdn.siftscience.com
 connect.facebook.net
@@ -647,15 +594,9 @@ alison.com
 alison-static.net
 w3schools.com
 drawspace.com
-udemy.com
-coursera.org
-udacity.com
-localhost
-khanacademy.org
-lynda.com
 investor.vanguard.com
 firefox.com
-kde.org
+mozilla.com
 redirectingat.com
 typingclub.com
 kovidgoyal.net
@@ -672,8 +613,6 @@ flathub.org
 devpy.me
 cloudflare.com
 pi-hole.net
-theverge.com
-giantgeek.com
 muninszaman.blogspot.com
 chandrasa.com
 jetbrains.com
@@ -684,16 +623,13 @@ dzone.com
 testingplus.me
 serenity-bdd.info
 baselinker.com
-omgubuntu.co.uk
 jonobacon.com
 mariospr.org
-savefrom.net
 swiatkwiatow.pl
 szafrankrokus.com.pl
 e-ogrodek.pl
 e-szafran.pl
 fajnyogrod.pl
-purl.org
 lyonbros.com
 meyerweb.com
 microsoft.com
@@ -734,12 +670,7 @@ wprawo.pl
 livingflow.net
 greggbraden.com
 greggbraden.net
-zdnet.com
-kernel.org
 powrotdonatury.net.pl
-idris-lang.org
-julialang.org
-juliabloggers.com
 mednatur.pl
 paleostrefa.pl
 akademiawitalnosci.pl
@@ -796,7 +727,6 @@ typescriptlang.org
 fontawesome.com
 daftcode.pl
 focusvision.com
-gitlab.com
 robertbrzoza.pl
 myersdetox.com
 chili24.pl
@@ -810,7 +740,7 @@ thoughtbot.com
 logan.tw
 czep.net
 powerthoughtsmeditationclub.com
-codewars.com  #(Igor z tego robi zadania), 
+codewars.com
 lifeextension.com
 attunedvibrations.com
 myedenproject.wordpress.com
@@ -839,7 +769,6 @@ psybertron.org
 shamanicpassages.com
 thinkific.com
 autenticgrowth.com
-medium.com
 ohmyz.sh
 zshwiki.org
 invinciblemusic.com
@@ -872,7 +801,6 @@ shopifycdn.com
 cainiao.com
 jwz.org
 collectyoutube.com
-slothygeek.com
 taobao.com
 celestialqigong.com
 thunderwizard.com
@@ -886,7 +814,6 @@ eckharttolletv.com
 toltecwarrior.net
 soul-guidance.com
 bibliotecapleyades.net
-energyenhancement.org
 energyenhancement.org
 parallelperception.com
 absolutoracle.com
@@ -919,14 +846,12 @@ nexusmods.com
 tesrenewal.com
 
 cdn.segment.com
-secure.quantserve.com
 2mdn.net
 api.segment.io
 fwmrm.net
 conviva.com
 vrv.co
 dlvr1.net
-collective-evolution.com
 
 #aliexpress.com
 alicdn.com
@@ -952,14 +877,11 @@ blackhealthwealth.com
 zdrowienatalerzu.pl
 brainly.pl
 sampleforms.com
-znanylekarz.pl
 medichouse.pl
 medinfo.pl
 scanmed.pl
-dorotakaminska.pl
 spirittao.com
 wixsite.com
-terapiasokami.pl
 ukjuicers.com
 brat.pl
 gumtree.pl
@@ -967,13 +889,11 @@ ebayimg.com
 ishafoundation.org
 innerengineering.com
 eatthismuch.com
-argonauta.pl
 stopacta2.org
 drlinkcheck.com
 virustotal.com
 nosgoth.net
 vedabase.io
-autenticgrowth.com
 kodczasu.pl
 symantec.com
 geovital.com
@@ -997,8 +917,6 @@ bleachbit.org
 dhamma.org
 monkeyuser.com
 hackr.io
-geekflare.com
-neowin.net
 antyparch.pl
 godlikeproductions.com
 alipayobjects.com
@@ -1007,8 +925,6 @@ time.is
 dateandtime.info
 haskforce.com
 mmhaskell.com
-ubuntupit.com
-git-scm.com
 codeguru.com
 
 dominikanie.pl
@@ -1036,21 +952,19 @@ daskeyboard.com
 planszomania.pl
 whattomine.com
 thrivemovement.com
-google-analytics.com
-googleadservices.com
 eko-znaki.pl
-alternative.me
 techshout.com
 osalt.com
 smaker.pl
 izagotuje.pl
+terapiasokami.pl
+dorotakaminska.pl
 nicponwkuchni.pl
 lawendowy-dom.com.pl
 wikibooks.org
 goinbigdata.com
 aboullaite.me
 bambielli.com
-freecodecamp.org
 nickjanetakis.com
 til.codes
 ctl.io
@@ -1060,13 +974,11 @@ devopscube.com
 edureka.co
 aws.amazon.com
 codeship.com
-ibm.com
 findip-address.com
 ipinfo.io
 ip-address.com
 shellcheck.net
 atom.io
-linuxcommand.org
 virtux.com
 healthline.com  # https://www.healthline.com/nutrition/vitamin-b-foods
 clearspring.co.uk
@@ -1076,14 +988,11 @@ stackshare.io
 spacemacs.org
 web-design-weekly.com
 onextrapixel.com
-hongkiat.com
 pageera.com
-sitepoint.com
 shopify.com
 depesz.com
 sqlauthority.com
 madhur.co.in
-geekhack.org
 rapidtyping.com  # na windows rozpoznaje keyboard layout i uczy Cię go; działa pod wine
 khjk.org  # http://www.khjk.org/log/2011/jan/carpalx.html `setxkbmap "carpalx(qgmlwy)"`
 uni.wroc.pl
@@ -1099,24 +1008,18 @@ ufomg.com
 ufogen.com
 ufonewshub.com
 4ufos.com
-antergos.com
-arcolinuxd.com
 zapier.com
 vimcast.org
 codeyarns.com
 openhub.net
 researchgate.net
-tuxarena.com
-techsupportalert.com
 pylonsproject.org
-ubuntugeek.com
 dreampie.org
 bpython-interpreter.org
 terriblecode.com
 libhunt.com
 ipython.org
 y2d.com
-fosstack.com
 dataquest.io
 spyder-ide.org
 domator24.com
@@ -1124,11 +1027,7 @@ img.buzzfeed.com
 hackaday.com
 hpe.com  #hpe.com/us/en/insights/articles/9-great-mechanical-keyboards-for-coders-1707.html
 aligulac.com
-kacper-oleksiak.pl
 perpetualpc.net
-ubuntuhandbook.org
-linuxmint.com
-computerbeginnersguides.com
 xahlee.info  # http://xahlee.info/kbd/ergonomic_keyboards.html
 asus.com
 asus-europe.eu
@@ -1139,22 +1038,22 @@ hotfix.pl
 netgate.com
 comparitech.com
 consciousness.arizona.edu
-wustl.edu
-ucdavis.edu
-calpoly.edu
-harvard.edu  # https://www.health.harvard.edu/staying-healthy/best-source-of-vitamins-your-plate-not-your-medicine-cabinet
-princeton.edu
-yale.edu
-osc.edu
-ufl.edu
-sbmi.uth.edu
+#columbia.edu
+#wustl.edu
+#ucdavis.edu
+#calpoly.edu
+#harvard.edu  # https://www.health.harvard.edu/staying-healthy/best-source-of-vitamins-your-plate-not-your-medicine-cabinet
+#princeton.edu
+#yale.edu
+#osc.edu
+#ufl.edu
+#sbmi.uth.edu
 bensound.com  # muzyka
 shroomery.org  # magic shrooms
 tealswan.com
 drunvalo.net
 paradigmshiftlondon.com
 meltingasphalt.com  # https://www.meltingasphalt.com/interactive/going-critical/
-theverge.com
 noetic.org
 biontologyarizona.com
 lynnemctaggart.com
@@ -1168,26 +1067,21 @@ yang-sheng.com
 tachyon-aanbieding.eu
 anasuya.com  # http://www.anasuya.com/trixter/
 elijahraymusic.com
-irongeek.com
 sivanandaonline.org
 ananda.org
 samyama.com
 yogapedia.com
 world-mysteries.com
 diffen.com  # jak slant.co
+differencebetween.net
 krzysztof-jackowski.info
+krzysztofjackowski.pl
 jordanbpeterson.com
 kondor.de  # shaman
-microhowto.info  # linux
-harvard.edu # health.harvard.edu
 abbeynormalswisdomquest.com
 wiedzaojcapio.pl
-typekit.net
-hotjar.com
-devttys0.com
 tacnetsol.com
 gtvhacker.com
-wired.com
 shigatse.pl
 layah.org
 yogacentre.org
@@ -1237,38 +1131,38 @@ meditationtrust.com
 nerdycreator.com  # https://nerdycreator.com/bookclub/best-books-on-meditation-for-beginners/
 allabout-meditation.com
 unifycosmos.com  # https://unifycosmos.com/transcend-mental-meditation-tmm/
-zoharstargate.com
 grahamhancock.com
 joerogan.net
 ghowen.me
-columbia.edu
 nexon.net
 keyofsolomon.org
 theresonanceproject.org
 secretsinplainsight.com
 innerawakening.org
 greatapetrust.org
-soundcloud.com
 kriteachings.org
 spirits.com
 quantumplayer.com
 the-spoiler.com  # http://www.the-spoiler.com/RPG/Valkyrie.studios/septerra.core.2.html
 nightsolo.net
 wsgf.org
-player.vimeo.com
-googlevideo.com
 allitebooks.com
 allitebooks.org
+it-ebooks.info
 thecamels.org
 kik.pcz.pl
-osxdaily.com
 hypexr.org
 consideratecode.com
 michalkiewicz.pl
 cloudbees.com
-redhat.com
 servicenow.com
 opakowania.com.pl
+pyszne.pl
+mxtoolbox.com
+sklep-zdrowiebezlekow.pl
+rolapis.pl
+polskasmakuje.pl
+ekoarka.com.pl
 
 # non-duality:
 tuiteraz.eu
@@ -1281,6 +1175,7 @@ buddhistinquiry.org
 deconstructingyourself.com
 david.i-am-one.net
 non-duality.rupertspira.com
+floweroflife.com
 
 # bakti yoga:
 sivananda.eu
@@ -1302,10 +1197,79 @@ wiara.pl
 katolik.pl
 zycie-duchowe.pl
 medytacja.waw.pl
+musketeerchess.net
+
+diffchecker.com  # fajne np. do porownywania sql'ek
+diffnow.com
+quickdiff.com
+text-compare.com
+glennmullin.com  # Buddhist Author Teacher
+shambhala.com
+dorjeshugden.com
+
+# egypt
+crystalinks.com
+egyptian-gods.org
+egyptian-witchcraft.com
+
+# top 100 best sites
+mailnator.com
+bugmenot.com
+justpaste.it
+zamzar.com
+openculture.com
+instructables.com
+makezine.com
+yelp.com
+groupon.com
+zomato.com
+wunderground.com
+bleepingcomputer.com
+tosdr.org
+justdelete.me
+todoist.com
+ifttt.com
+upwork.com  # hire freelancer
+muscusfreelife.com
+hempking.eu
+konopnechmury.pl
+apteka-melissa.pl
+konopny.pl
+
+# kursy programowania online
+ocw.mit.edu  # https://ocw.mit.edu/courses/intro-programming/
+edx.org
+udemy.com
+coursera.org
+udacity.com
+khanacademy.org
+lynda.com
+pvtuts.com
+freecodecamp.org
+theodinproject.com
+opencourser.com
+nautilus.org
+bialczynski.pl
+drfranc.com
 
 
 #=======================
-#sndcdn.com
+soundcloud.com
+sndcdn.com
+mixcloud.com  # swietna muzyka
+asoftmurmur.com
+
+player.vimeo.com
+googlevideo.com
+
+#ads.avocet.io
+#adserver-us.adtech.advertising.com
+#adserver.xpanama.net
+
+#keepvid.pro
+getvideo.org # dziala, nie pozwala pobierac z filmow ograniczeniem
+#savefrom.net
+sfstatic.net
 #pdfdrive.com  
 #gamespot.com
 #deon.pl
@@ -1323,12 +1287,12 @@ medytacja.waw.pl
 #amazon.de
 #amazon.co.uk
 #ceneo.pl
-
 #duckduckgo.com
+#startpage.com  # alternatywa dla duckduckgo
+#searx.me
 #bokus.com
 #sfd.pl
 #naturalnews.com
-#download.cnet.com
 #tosterpandory.pl
 #gov.pl
 #care2.com
@@ -1367,3 +1331,5 @@ medytacja.waw.pl
 #dhgate.com
 #strefatajemnic.onet.pl
 #collective-evolution.com
+#books.google.pl
+#livingsocjal.com
