@@ -1,5 +1,5 @@
 ###########################
-#time: 10 00 20 00 0123456
+#time: 09 00 21 00 0123456
 ###########################
 
 # web browser
@@ -10,7 +10,7 @@ wolframalpha.com
 # Rozrywka
 
 ## twitch
-#twitch.tv
+twitch.tv
 twitchcdn.net
 twitchsvc.net
 ttvnw.net
@@ -258,7 +258,7 @@ faqs.org
 wikia.nocookie.net
 wikia-services.com
 faforever.com
-cdn.wikimg.net
+#cdn.wikimg.net  # to może być w wikipedii wykorzystywane, dlatego exclude
 whenisthenextsteamsale.com
 effbot.org
 onethingwell.org
@@ -424,7 +424,6 @@ golang.org
 godoc.org
 othermedium.com
 popotopie.blogspot.com
-justjoin.it
 tinyletter.com
 forbes.pl
 off-guardian.org
@@ -592,11 +591,8 @@ edX.org
 futurelearn.com
 alison.com
 alison-static.net
-w3schools.com
 drawspace.com
 investor.vanguard.com
-firefox.com
-mozilla.com
 redirectingat.com
 typingclub.com
 kovidgoyal.net
@@ -635,9 +631,7 @@ meyerweb.com
 microsoft.com
 yourdomain.com
 edgekey.net
-apostol.pl
 pustyniawmiescie.pl
-sanctus.pl
 dns.pl
 whatsapp.com
 harmonyh2o.com
@@ -724,14 +718,37 @@ email.center
 greatdreams.com
 diatlow.pl
 typescriptlang.org
-fontawesome.com
-daftcode.pl
 focusvision.com
 robertbrzoza.pl
 myersdetox.com
 chili24.pl
 haskellbook.com
 b-list.org
+dobreziola.com
+
+militaria.pl
+arobron.pl
+kralarms.pl
+bron.pl
+balistas.pl
+superwiatrowki.pl
+akhobby.pl
+combat.pl
+gunfire.com
+wiatrowki.pl
+otomoto.pl
+
+# escrima
+fightingreport.com
+kruki-warszawa.pl
+localgymsandfitness.com
+fmawarsaw.pl
+fmacombat.pl
+## sklepy
+gladiator-fight.com
+bokken.pl
+swordsknivesanddaggers.com  # Jo and Bo Staffs for sale
+swordsoftheeast.com         # jest też Bokken Staff, GOO
 
 attlasian.com
 friweb.pl
@@ -760,7 +777,6 @@ tylkoastronomia.pl
 tylkomedycyna.pl
 wordpress.com
 paranormalne.com.pl
-healthline.com
 prekognicja.pl
 
 doyletics.com
@@ -884,7 +900,6 @@ spirittao.com
 wixsite.com
 ukjuicers.com
 brat.pl
-gumtree.pl
 ebayimg.com
 ishafoundation.org
 innerengineering.com
@@ -895,7 +910,6 @@ virustotal.com
 nosgoth.net
 vedabase.io
 kodczasu.pl
-symantec.com
 geovital.com
 ormus24.pl
 boomerangs.org
@@ -916,7 +930,6 @@ srebrokoloidalne.waw.pl
 bleachbit.org
 dhamma.org
 monkeyuser.com
-hackr.io
 antyparch.pl
 godlikeproductions.com
 alipayobjects.com
@@ -926,6 +939,8 @@ dateandtime.info
 haskforce.com
 mmhaskell.com
 codeguru.com
+goeco.bio
+sciencing.com
 
 dominikanie.pl
 natura24.pl
@@ -972,7 +987,6 @@ johnzaccone.io
 devteam.space
 devopscube.com
 edureka.co
-aws.amazon.com
 codeship.com
 findip-address.com
 ipinfo.io
@@ -985,7 +999,6 @@ clearspring.co.uk
 primalpalate.com
 checkupdown.com
 stackshare.io
-spacemacs.org
 web-design-weekly.com
 onextrapixel.com
 pageera.com
@@ -999,7 +1012,6 @@ uni.wroc.pl
 magit.vc
 scalameta.org
 tiger.com.pl
-xemacs.org
 ergodox-ez.com
 ergonomictrends.com
 ultimatehackingkeyboard.com
@@ -1035,7 +1047,6 @@ notebookcheck.net
 avstore.pl
 elektroda.pl
 hotfix.pl
-netgate.com
 comparitech.com
 consciousness.arizona.edu
 #columbia.edu
@@ -1224,7 +1235,6 @@ yelp.com
 groupon.com
 zomato.com
 wunderground.com
-bleepingcomputer.com
 tosdr.org
 justdelete.me
 todoist.com
@@ -1251,32 +1261,44 @@ opencourser.com
 nautilus.org
 bialczynski.pl
 drfranc.com
+acronymfinder.com
+puzzles.com
+
+zaufaj.com
+apostol.pl
+sanctus.pl
+milosierdzieboze.pl
+biblijni.pl
+twojabiblia.pl
+biblica.com
+biblegateway.com
+ewangelia.org
+biblegateway.com
+biblia-online.pl
+biblia.deon.pl
 
 
 #=======================
-soundcloud.com
-sndcdn.com
+olx.pl
+gumtree.pl
+zakupmotocykla.pl
+#en.wikipedia.org  # check
+#wikia.com  # check
+#deon.pl  # check
+#soundcloud.com
+#sndcdn.com
 mixcloud.com  # swietna muzyka
 asoftmurmur.com
 
-player.vimeo.com
-googlevideo.com
-
-#ads.avocet.io
-#adserver-us.adtech.advertising.com
-#adserver.xpanama.net
-
+#player.vimeo.com
+#googlevideo.com
 #keepvid.pro
-getvideo.org # dziala, nie pozwala pobierac z filmow ograniczeniem
+#getvideo.org # dziala
 #savefrom.net
-sfstatic.net
 #pdfdrive.com  
 #gamespot.com
-#deon.pl
 #znak.com.pl
 #odzywianie.info.pl
-#olx.pl
-#gumtree.pl
 #quora.com
 #youtube.com
 #ytimg.com
@@ -1309,10 +1331,9 @@ sfstatic.net
 #penguinbookshop.com
 #sputniknews.com
 #libristo.pl
-#wikipedia.org
 #wikihow.com
-#ketoacademy.com
 #wikimedia.org
+#ketoacademy.com
 #nczas.com
 #pirc.pl
 #freenode.org
