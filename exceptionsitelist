@@ -1,4 +1,4 @@
-.Include</etc/dansguardian/lists/open-between-10-20>
+.Include</etc/dansguardian/lists/open-between-9-21>
 .Include</etc/dansguardian/lists/informatics>
 
 
@@ -64,7 +64,8 @@ docs.google.com
 feedproxy.google.com
 google-analytics.com
 googletagmanager.com
-#play.google.com
+play.google.com
+withgoogle.com
 
 support.google.com
 groups.google.com
@@ -234,12 +235,63 @@ ewka-bus.pl
 rozklad-pkp.pl
 brave.com
 archlinux.org
+gentoo.org
 gnome.org
 gnome-look.org
 kacper-oleksiak.pl
 exercism.io
+staticxx.facebook.com
+zdassets.com
+bleepstatic.com
+connatix.com
+fontawesome.com
+cdn.ttgtmedia.com
+js.stripe.com
+sfstatic.net
 
 yippy.com
+mycroftproject.com
+
+ostrobramska.pl
+katolik.pl
+franciszkanie.pl
+franciszkanie.com
+michalici.pl
+adonai.pl
+siostryodaniolow.pl
+swietymichal.pl
+stacja7.pl
+niedziela.pl
+pacierz.pl
+brewiarz.pl
+wiara.pl
+katolickapolonia.com
+swietyjozef.kalisz.pl
+sekretariatewangelizacji.pl
+fronda.pl
+swiatlopana.com
+objawienia.com
+duchprawdy.com
+rozaniec.eu
+modlitwarozancowa.pl
+rozaniecdogranic.pl
+adamszustak.pl
+jasnagora.pl
+bernardyni.pl
+dominikanie.pl
+paulini.pl
+zaufaj.com
+apostol.pl
+sanctus.pl
+milosierdzieboze.pl
+biblijni.pl
+twojabiblia.pl
+biblica.com
+ewangelia.org
+biblegateway.com
+biblia-online.pl
+biblia.deon.pl
+
 
 #ask.com
 #wiki.com
