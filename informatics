@@ -112,7 +112,7 @@ crontab-generator.org
 osnews.com
 asmeurer.com
 networkworld.com
-tician.de  # check, documen.tician.de
+documen.tician.de
 itsfoss.com
 linuxsecurity.com
 
@@ -191,8 +191,6 @@ learnyouahaskell.com
 tryhaskell.org
 schoolofhaskell.com
 maketecheasier.com
-talkpython.fm
-podcastinit.com
 pythonbytes.fm
 rhettinger.wordpress.com
 webhostinggeeks.com
@@ -405,6 +403,10 @@ w3schools.com
 eduweb.pl
 zaiste.net
 linux4one.com
+yourownlinux.com
+ryanstutorials.net
+tutorialkart.com
+becane.com
 shellhacks.com
 towardsdatascience.com
 nezhar.com
@@ -460,7 +462,6 @@ chrome.google.com
 developers.google.com
 mozilla.net
 mozilla.org
-firefox.com
 justjoin.it
 wickedlysmart.com
 codementor.io
@@ -516,11 +517,14 @@ hide.me
 forceflow.be
 vpn.ac
 ownyourbits.com
+codewars.com  # idris-lang problems
+hyperskill.org
 
 # bounty hunter
 bountysource.com
 gitcoin.co
 internetbugbounty.org
+bugbountynotes.com
 hackerone.com
 designernews.co
 arxiv.org
@@ -592,6 +596,11 @@ geekermag.com
 itstillworks.com
 engadget.com
 pcmag.com
+audioholics.com
+tomshardware.com
+techpowerup.com
+protesilaos.com
+codezen.org
 softwaretestinghelp.com
 testingsecurity.com
 codeburst.io
@@ -599,6 +608,18 @@ deadliestwebattacks.com
 distilnetworks.com
 risingstack.com
 devbridge.com
+robotstxt.org
+codeyarns.com
+shapeshed.com
+vim.fandom.com
+cheatography.com
+nerdfonts.com
+ncona.com
+vim8.org
+developpaper.com
+binarywebpark.com
+stevenocchipinti.com
+howtobuildsoftware.com
 
 # exploity
 cvedetails.com
@@ -610,7 +631,7 @@ exploit-db.com
 cxsecurity.com
 rapid7.com
 electricmonk.nl
-thekelleys.org.uk  # check
+thekelleys.org.uk
 
 packetstormsecurity.org
 slashdot.org
@@ -632,7 +653,7 @@ metasploit.org
 easyviruskilling.com
 fedoramagazine.org
 pythoncentral.io
-howtogeek.com  # check
+howtogeek.com
 addictivetips.com
 nongnu.org
 spacemacs.org
@@ -690,14 +711,12 @@ openbsd.org
 bsd-pl.org
 freebsdnews.com
 mono-project.com
-fosdem.org
 macierz.org.pl
 technopedia.com
 fosdem.org
 ulos.pl
 adminbyaccident.com
 freshports.org
-eukhost.com
 fossies.org
 fedorapeople.org
 rootkit.nl
@@ -727,7 +746,6 @@ raymii.org
 helpsystems.com
 teamquest.com
 tummy.com
-interserver.net
 peteris.rocks
 archlabslinux.com
 slacksbuilds.org
@@ -753,13 +771,57 @@ searchcode.com
 finalrewind.org
 linuxnix.com
 pypa.io
-pythonforbeginners.com
-dreamhost.com
 djangocentral.com
 pythonspeed.com
 programwithus.com
 janakiev.com
+vim.1045645.n5.nabble.com
+hackerrank.com
+codelite.org
+codility.com
+bower.io
+npmjs.org
+jsfiddle.net
+ember-twiddle.com
+veerasundar.com
+webupd8.org
+dotshare.it
+ethanschoonover.com
+leetcode.com
+vimdoc.sourceforge.net
+alvinalexander.com
+dunebook.com
 
+# klawiatury
+genesis-zone.com
+techfresh.pl
+daskeyboard.com
+netgeeks.pl
+euro.com.pl
+salurion.pl
+razer.com
+prosettings.net
+newegg.com
+custompcreview.com
+tesorotec.com
+wavepc.pl
+pcgamer.com
+tomsguide.com
+mechanicalkeyboards.com
+mechanical-keyboard.org
+nymag.com
+keyboardco.com
+cherrymx.de
+# bestbuy.com  # check
+
+gieldastron.pl
+
+# check:
+discord.me
+discordservers.com
+disboard.org
+discordbots.org
+discordsl.com
 
 ###############
 #archbang.org
