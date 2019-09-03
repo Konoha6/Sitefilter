@@ -17,7 +17,6 @@ ttvnw.net
 api.mixpanel.com
 summerhamster.com
 global.ssl.fastly.net
-static-cdn.jtvnw.net
 algolia.net
 
 ## krzyzowki
@@ -132,9 +131,6 @@ api24.pl
 prebid.org
 rubiconproject.com
 
-# mickiewicz
-#mickiewicz.net
-
 # dieta i zdrowie
 ekodlaciebie.pl  # ormus orme botanique - iryd, ruten
 pyszneeko.pl
@@ -220,13 +216,9 @@ kierunekzdrowie.com
 martabrzoza.pl
 ncbi.nlm.nih.gov
 well-typed.com
-qsbr.ec.quoracdn.net
 iotdev.m2s.pl
 dev.entrouvert.org
 openssl.org
-cdn.sstatic.net
-js-sec.indexww.com
-secure.quantserve.com
 brilliant.org
 morele.net
 x-kom.pl
@@ -258,14 +250,12 @@ faqs.org
 wikia.nocookie.net
 wikia-services.com
 faforever.com
-#cdn.wikimg.net  # to może być w wikipedii wykorzystywane, dlatego exclude
 whenisthenextsteamsale.com
 effbot.org
 onethingwell.org
 xdebug.org
 bitbucket.org
 ehow.com
-cheatography.com
 pluralsight.com
 ycombinator.com
 databasesoup.com
@@ -291,24 +281,17 @@ lvh.io
 supcomdb.com
 reactjs.com
 adumen.com
-cdn.petametrics.com
-as.casalemedia.com
-ib.adnxs.com
-fastlane.rubiconproject.com
 docs.pytest.org
 livemeteors.com
 ipv6leak.com
 addfreestats.com
 platform.twitter.com
 resources.infolinks.com
-cdn.delivr.net
-bootstrapcdn.com
 supremecommander.com
 phys.org
 liveanddare.com
 magicznyogrod.pl
 bgr.com
-rackcdn.com
 skimlinks.com
 scribd.com
 doc.pytest.org
@@ -329,46 +312,29 @@ paranormalpl.files.wordpress.com
 public-api.wordpress.com
 gravatar.com
 duelyst.com
-cdn.polyfill.io
-cdn.ravenjs.com
 dhl.com.pl
 businessinsider.com.pl
 nautil.us
 mahajana.net
 washingtonpost.com
-js-agent.newrelic.com
 berkeleywellness.com
 ethereum.gitbooks.io
-pegym.com
 independent.co.uk
 spring.org.uk
 genesis-mining.com
 cryptosrus.com
 jkcrypto.com
-cdn.edl.cloud
 mariuszalin.pl
 ariusz.pl
 cenapradu.strefa.pl
 pclab.pl
-ocnd.eu
-nsstatic.net
-tag.crsspxl.com
-p.cpx.to
-c.jsrdn.com
-display.apester.com
-rules.quantcount.com
-api.optnmstr.com
-a.optnmstr.com
 ciasteczka.eu
-p.jwpcdn.com
 whatismyipaddress.com
 gafter.blogspot.com
 img.wonderhowto.com
 travis-ci.org
 thenextweb.com
 api.pinterest.com
-tnwcdn.com
-licdn.com
 nearlyfreespeech.net
 docs.sqlalchemy.org
 tox.chat
@@ -409,9 +375,7 @@ pbs.twimg.com
 niezalezna.pl
 spotify.com
 
-scontent-frx5-1.xx.fbcdn.net
 echodnia.eu
-s-pt.ppstatic.pl
 emisja.contentstream.pl
 
 # te dwie strony zawierają świetne metody na obe, które można połączyć
@@ -438,8 +402,6 @@ self.com
 trylowcarb.com
 thisisbio.pl
 ketoconnect.teachable.com
-cdn.onesignal.com
-cdn.geni.us
 yummly.com
 content.jwplatform.com
 wsdib.com
@@ -472,7 +434,6 @@ waterwillowmoon.com
 git-scm.com
 thenx.com
 service.thecloud.eu
-eu-central571.discord.gg
 kupdf.com
 sacred-magick.com
 borderlandsciences.org
@@ -493,14 +454,7 @@ hostowo.eu
 rssowl.org
 jeffknupp.com
 sebastianraschka.com
-a.pub.network
-netdna-ssl.com
-futurecdn.net
-indexww.com
-doubleclick.net
-msgfocus.com
 cybercity.biz
-webupd8.org
 enlightenment.org
 journal.aps.org
 #edu.pl  # astrouw.edu.pl, haker.edu.pl, pw.edu.pl, mimuw.edu.pl, bitcoin.edu.pl
@@ -512,15 +466,7 @@ morizon.pl
 gratka.pl
 domiporta.pl
 classistatic.com
-ppstatic.pl
-ppapi.pl
-creativecdn.com
-snrcdn.com
 amplitude.com
-widget.userengage.com
-staticmorizon.com
-optimizely.com
-bam.nr-data.net
 criteo.com
 bbelements.com
 userengage.com
@@ -528,9 +474,6 @@ pubmatic.com
 adform.net
 adscale.de
 outbrain.com
-omnitagjs.com
-casalemedia.com
-ligadx.com
 
 hyperscaleit.com
 gitter.im
@@ -567,20 +510,14 @@ cdaction.pl
 resistance2010.com
 secretenergy.com
 secretscience.com
-
-syndication.twitter.com
 digidip.net
-
 premproxy.com
 proxy-list.org
 codinghorror.com
 airbrake.io
 verywellfit.com
-cdn.siftscience.com
-connect.facebook.net
 amp.ai
 scribdassets.com
-tag.bounceexchange.com
 amplifypixel.outbrain.com
 tr.outbrain.com
 keybase.io
@@ -635,7 +572,6 @@ pustyniawmiescie.pl
 dns.pl
 whatsapp.com
 harmonyh2o.com
-hotjar.com
 sygnaturazdrowia.pl
 mojanatura.pl
 parabara.pl
@@ -654,7 +590,6 @@ matthias.wimmer.name
 thelostlambda.xyz
 bruno-groening.org
 zaczekac-na-dusze.pl
-fronda.pl
 10minut.xyz
 proline.pl
 factorio.com
@@ -790,7 +725,6 @@ zshwiki.org
 invinciblemusic.com
 wimhofmethod.com
 gerrystarnes.com
-oloadcdn.net
 payloadz.com
 ksiegawodnika.pl
 heroes.net.pl
@@ -812,7 +746,6 @@ shamanicconnection.com
 shamanportal.com
 abby-wynne.com
 zoharstargate.com
-shopifycdn.com
 
 cainiao.com
 jwz.org
@@ -860,14 +793,6 @@ seriouseats.com
 mediaexpert.pl
 nexusmods.com
 tesrenewal.com
-
-cdn.segment.com
-2mdn.net
-api.segment.io
-fwmrm.net
-conviva.com
-vrv.co
-dlvr1.net
 
 #aliexpress.com
 alicdn.com
@@ -942,7 +867,6 @@ codeguru.com
 goeco.bio
 sciencing.com
 
-dominikanie.pl
 natura24.pl
 wodazycia.info
 osmoza.pl
@@ -963,7 +887,6 @@ metacritic.com  # oceny gier PSP
 aclockworkbrain.com
 teamliquid.net
 duneii.com
-daskeyboard.com
 planszomania.pl
 whattomine.com
 thrivemovement.com
@@ -1022,7 +945,6 @@ ufonewshub.com
 4ufos.com
 zapier.com
 vimcast.org
-codeyarns.com
 openhub.net
 researchgate.net
 pylonsproject.org
@@ -1049,17 +971,8 @@ elektroda.pl
 hotfix.pl
 comparitech.com
 consciousness.arizona.edu
-#columbia.edu
-#wustl.edu
-#ucdavis.edu
-#calpoly.edu
-#harvard.edu  # https://www.health.harvard.edu/staying-healthy/best-source-of-vitamins-your-plate-not-your-medicine-cabinet
-#princeton.edu
-#yale.edu
-#osc.edu
-#ufl.edu
-#sbmi.uth.edu
 bensound.com  # muzyka
+bensound.org
 shroomery.org  # magic shrooms
 tealswan.com
 drunvalo.net
@@ -1204,8 +1117,6 @@ consciouslifestylemag.com
 # hezychazm
 communiocrucis.pl
 tyniec.com.pl
-wiara.pl
-katolik.pl
 zycie-duchowe.pl
 medytacja.waw.pl
 musketeerchess.net
@@ -1262,34 +1173,86 @@ nautilus.org
 bialczynski.pl
 drfranc.com
 acronymfinder.com
-puzzles.com
+ziemiaokrzemkowa.info
 
-zaufaj.com
-apostol.pl
-sanctus.pl
-milosierdzieboze.pl
-biblijni.pl
-twojabiblia.pl
-biblica.com
-biblegateway.com
-ewangelia.org
-biblegateway.com
-biblia-online.pl
-biblia.deon.pl
+bestselfdefenseknife.com
+knifeup.com
+knifecenter.com
+sammyfranco.com
+thedarkblade.com
+combatical.com
+krolestwonmp.pl
+wzchbialystok.pl
+
+# napoleon
+sztab.com
+bryk.pl
+historia.org.pl
+epodreczniki.pl
+sciaga.pl
+napolun.com
+napoleon.org
+warhistoryonline.com
+militaryhistorynow.com
+wargame.ch
+mathway.com
+
+# (wa) shogi
+puzzles.com
+chessvariants.com
+shogi.net
+boardgamegeek.com
+chess.fandom.com  # check fandom.com
+shogimaze.free.fr
+seki.webmasters.gr.jp
+shogishack.net
+genedavissoftware.com
+gobase.org
+hitachi.co.jp
+pandanet.co.jp
+dspace.mit.edu
+sgpshogi.wordpress.com
+hgm.nubati.net
+chess.free.fr
+chushogi.de
+seattlechess.club
+shojidesigns.com
+zillions-of-games.com
+goproblems.com
+tsumegohero.com
+japanesechess.org
+shogihub.com
+chess.com
+chessbanter.com
+shogiglobal.blogspot.com
+senseis.xmp.net
+tsumego.tasuki.org
+usgo.org
+u-go.net
+baduk.org
+tsumego.jeudego.org
+britgo.org
+playgo.to
+# wikidata.org
+# ipfs.io
+# thefullwiki.org
 
 
 #=======================
+
 olx.pl
 gumtree.pl
 zakupmotocykla.pl
+
 #en.wikipedia.org  # check
+#cdn.wikimg.net  # to może być w wikipedii wykorzystywane, dlatego exclude
 #wikia.com  # check
 #deon.pl  # check
 #soundcloud.com
 #sndcdn.com
-mixcloud.com  # swietna muzyka
-asoftmurmur.com
-
+#monkeyknifefight.com
+#hiconsumption.com
+#smashinglists.com
 #player.vimeo.com
 #googlevideo.com
 #keepvid.pro
@@ -1331,6 +1294,7 @@ asoftmurmur.com
 #penguinbookshop.com
 #sputniknews.com
 #libristo.pl
+#pegym.com
 #wikihow.com
 #wikimedia.org
 #ketoacademy.com
@@ -1354,3 +1318,14 @@ asoftmurmur.com
 #collective-evolution.com
 #books.google.pl
 #livingsocjal.com
+
+#columbia.edu
+#wustl.edu
+#ucdavis.edu
+#calpoly.edu
+#harvard.edu  # https://www.health.harvard.edu/staying-healthy/best-source-of-vitamins-your-plate-not-your-medicine-cabinet
+#princeton.edu
+#yale.edu
+#osc.edu
+#ufl.edu
+#sbmi.uth.edu

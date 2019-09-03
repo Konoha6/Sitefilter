@@ -27,6 +27,7 @@ turtl.dev
 discordapp.com
 discordapp.net
 discord.gg
+eu-central571.discord.gg
 weechat.org
 
 ## poczta
@@ -43,7 +44,6 @@ logowanie.interia.pl
 
 mail.google.com
 drive.google.com
-gstatic.com
 accounts.google.com
 accounts.google.pl
 hangouts.google.com
@@ -66,6 +66,7 @@ google-analytics.com
 googletagmanager.com
 play.google.com
 withgoogle.com
+gstatic.com
 
 support.google.com
 groups.google.com
@@ -103,21 +104,23 @@ rpgamers.net
 tunein.com
 ddns.net
 ampush.io
+radiotime.com
 radiorivendell.ddns.net
 rainwave.cc
 textville.net
-gameowls.com
 mixlive.ie
 cdn.shortpixel.ai
 discourse-cdn.com
 accuradio.com
 accu.fm
 bodymindspiritradio.com
-radiotime.com
 radio-browser.info
 crwdcntrl.net
 static.truex.com
 stackadapt.com
+wixstatic.com
+static.parastorage.com
+connect.soundclound.com
 
 internet-radio.com  # zawiera:
 ukbassradio.com
@@ -126,21 +129,16 @@ partyvibe.com
 dnbstation.com
 electric-artwork.net 
 drums.ro
-psychoradio.org
-radioraving.com
 soullivefm.com
-tocatarumbera.com 
 marmusic.nl
-radioatlantis.club 
-maxitalo.com
-radioatlantide.it
 radionuages.blogspot.mx
-radiosiroco.es
+listen2myradio.com
 969theoasis.com
 newwave.radio
 equinox.shoutca.st
 fbcdn.net
 flashbackalternatives.com
+flashbackalternatives.torontocast.stream
 metaphysicaltalkradio.com
 earxtacydarkwaveradio.com
 ambientradio.org
@@ -152,12 +150,9 @@ jazzradio.com
 rockradio.com
 radiotunes.com
 gpodder.net  # podcasty
-
-# not working
-lounge-radio.com
-internetradiouk.com
-electronics-notes.com
-s0.wp.com
+irlpodcast.org
+podcastinit.com
+talkpython.fm
 
 ### pyradio
 listen.di.fm
@@ -168,6 +163,11 @@ slayradio.org
 somafm.com
 monkeyradio.org
 at2.ah.fm
+raggakings.net
+smgradio.com
+207.200.96.255
+205.188.215.231
+208.79.238.78
 
 # steam
 steamcommunity.com
@@ -213,6 +213,13 @@ online-stopwatch.com
 timer-tab.com
 insighttimer.com
 
+# yay mirrors
+icm.edu.pl
+mirror.onet.pl
+arch.midov.pl
+piotrkosoft.net
+vectranet.pl
+
 # rest
 3ho.org
 3ho.pl
@@ -248,6 +255,91 @@ fontawesome.com
 cdn.ttgtmedia.com
 js.stripe.com
 sfstatic.net
+hotjar.com
+firefox.com
+cdn.audioaddict.com
+beacon.errorception.com
+consent.cookiebot.com
+cdn.delivr.net
+bootstrapcdn.com
+rackcdn.com
+cdn.petametrics.com
+as.casalemedia.com
+ib.adnxs.com
+fastlane.rubiconproject.com
+cdn.sstatic.net
+js-sec.indexww.com
+secure.quantserve.com
+qsbr.ec.quoracdn.net
+cdn.polyfill.io
+cdn.ravenjs.com
+cdn.edl.cloud
+p.jwpcdn.com
+tnwcdn.com
+licdn.com
+scontent-frx5-1.xx.fbcdn.net
+s-pt.ppstatic.pl
+cdn.onesignal.com
+cdn.geni.us
+creativecdn.com
+futurecdn.net
+snrcdn.com
+cdn.siftscience.com
+oloadcdn.net
+shopifycdn.com
+cdn.segment.com
+2mdn.net
+api.segment.io
+fwmrm.net
+conviva.com
+vrv.co
+dlvr1.net
+static-cdn.jtvnw.net
+nsstatic.net
+ocnd.eu
+tag.crsspxl.com
+p.cpx.to
+c.jsrdn.com
+display.apester.com
+rules.quantcount.com
+api.optnmstr.com
+a.optnmstr.com
+js-agent.newrelic.com
+a.pub.network
+netdna-ssl.com
+indexww.com
+doubleclick.net
+msgfocus.com
+staticmorizon.com
+optimizely.com
+bam.nr-data.net
+omnitagjs.com
+casalemedia.com  # check
+ligadx.com
+ppstatic.pl
+ppapi.pl
+widget.userengage.com
+syndication.twitter.com
+connect.facebook.net
+tag.bounceexchange.com
+feeds.noisia.nl
+m.stripe.network
+asoftmurmur.com
+s0.wp.com
+c.evidon.com
+resources.blogblog.net
+cdn.webrad.io
+cdn.trackjs.com
+cdn-pv.azureedge.net
+ocdn.eu
+scout-cdn.salesloft.com
+cdn.schemaapp.com
+static.addtoany.com
+static.tumblr.com
+assets.tumblr.com
+tr1.cbsistatic.com
+tr2.cbsistatic.com
+tr4.cbsistatic.com
 
 yippy.com
 mycroftproject.com
@@ -292,7 +384,20 @@ biblegateway.com
 biblia-online.pl
 biblia.deon.pl
 
+# not working
+lounge-radio.com
+internetradiouk.com
+electronics-notes.com
 
+#gameowls.com
+#psychoradio.org
+#radioraving.com
+#tocatarumbera.com 
+#radioatlantide.it
+#radioatlantis.club 
+#maxitalo.com
+#mixcloud.com  # swietna muzyka
+#cdn-images.audioaddict.com
 #ask.com
 #wiki.com
 #adservice.google.com
