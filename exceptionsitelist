@@ -27,17 +27,14 @@ turtl.dev
 
 # komunikatory
 
-https://discordapp.net  # del: media.discordapp.com
-/discordapp.com         # del: cdn.discordapp.com ; try whitelist: https://discordapp.com
-status.discordapp.com
-support.discordapp.com
-#discord.gg
-#eu-central571.discord.gg
+#discordapp.net  # bad
+discordapp.com
+discord.gg
 weechat.org
 
 ## gadu-gadu
-#gg.pl
-#gadu-gadu.pl
+gg.pl  # te dwa są istotne
+gadu-gadu.pl
 gemius.pl
 googlesyndication.com
 rlcdn.com
@@ -60,6 +57,7 @@ logowanie.interia.pl
 ## gmail
 mail.google.com
 drive.google.com
+keep.google.com
 accounts.google.com
 accounts.google.pl
 hangouts.google.com
@@ -94,16 +92,18 @@ googleapis.com
 pekao.com.pl
 pekao24.pl
 
-openweathermap.org
-darksky.net
-mapquest.com
-mapquestapi.com
-geocode.farm
-openstreetmap.org
-mapy.meteo.pl
-windy.com
-twojapogoda.pl
+accuweather.com
 blitzortung.org
+darksky.net
+geocode.farm
+mapquestapi.com
+mapquest.com
+mapy.meteo.pl
+openstreetmap.org
+openweathermap.org
+twojapogoda.pl
+weatheronline.pl  # uv index
+windy.com
 
 pypi.org
 pythonhosted.org
@@ -113,8 +113,9 @@ readthedocs.io
 readthedocs.org
 
 # steam
+# store.steampowered.com # bad
 steamcommunity.com
-/steampowered.com  # not: store.steampowered.com
+steampowered.com
 steamgames.com
 steamusercontent.com
 steamcontent.com
@@ -136,12 +137,12 @@ valve.net
 # nie dodajemy tych dla ktorych hostname jest juz powyzej umieszczony
 155.133.230.50
 155.133.248.53
+162.254.196.67
 162.254.197.181
 162.254.197.42
-37.139.1.159
 93.184.220.29
 
-# steam
+# blizzard
 activisionblizzard.com
 blizzard.com
 137.221.64.1
@@ -156,6 +157,7 @@ blizzard.com
 8.241.46.121
 8.241.46.249
 8.252.4.126
+37.244.28.111
 
 
 kukuklok.com
@@ -204,6 +206,7 @@ fast.com
 spectrum.com
 speedtest-net.org
 speedtest.org
+bit.ly
 
 
 # statics
@@ -211,6 +214,7 @@ speedtest.org
 2mdn.net
 a.opmnstr.com
 a.optnmstr.com
+ahcdn.com
 api.optnmstr.com
 api.segment.io
 a.pub.network
@@ -260,6 +264,7 @@ ib.adnxs.com
 indexww.com
 js-agent.newrelic.com
 js-sec.indexww.com
+js.hs-scripts.com
 js.stripe.com
 licdn.com
 ligadx.com
@@ -277,6 +282,7 @@ pixel-a.basis.net
 p.jwpcdn.com
 ppapi.pl
 ppstatic.pl
+pressablecdn.com
 qsbr.ec.quoracdn.net
 rackcdn.com
 resources.blogblog.net
@@ -291,7 +297,7 @@ snrcdn.com
 s-pt.ppstatic.pl
 ssl-images-amazon.com
 static.addtoany.com
-static-cdn.jtvnw.net
+jtvnw.net
 staticmorizon.com
 static.tumblr.com
 staticxx.facebook.com
@@ -307,6 +313,16 @@ widget.userengage.com
 zdassets.com
 answersstaticfilecdn.azureedge.net
 c.s-microsoft.com
+s.w.org
+tpnet.pl
+ip-176-31-225.eu
+cable.virginm.net
+opentrackr.org
+compute.amazonaws.com
+myvzw.com
+sites.nearlyfreespeech.net
+mux14.bay.osdinfra.net
+ipb.na
 
 adamszustak.pl
 adonai.pl
@@ -325,6 +341,7 @@ franciszkanie.com
 franciszkanie.pl
 fronda.pl
 jasnagora.pl
+jezusuzdrawia.pl
 katolickapolonia.com
 katolik.pl
 michalici.pl
@@ -347,13 +364,31 @@ swietymichal.pl
 twojabiblia.pl
 wiara.pl
 zaufaj.com
+opoka.org.pl
+gosc.pl
+
+apostol.republika.pl
+bibula.com
+jimdo.com
+laudate.pl
+przewodnik-katolicki.pl
+signum-dei.blogspot.com
+z-wiara-przez-zycie.blogspot.com
+wkczielonagora.blogspot.com
+ozdoby-komunijne.pl
+rozance-i-koronki.blogspot.com
+rozaniec.info
+rozaniec.web-portals.pl
+sekretariatfatimski.pl
+swietymarek.com
+gubinmbf.pl
 
 kacper-oleksiak.pl
 mycroftproject.com
 soonyata.home.xs4all.nl
 upc.pl
-yippy.com
 net-speak.pl
+faforever.com
 
 
 ##################
