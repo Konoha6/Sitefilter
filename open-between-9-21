@@ -1,23 +1,7 @@
 ###########################
-#time: 09 10 21 30 0123456
+#time: 09 00 21 30 0123456
 ###########################
 
-# web browsers
-
-wolframalpha.com
-
-
-# Rozrywka
-
-## twitch
-twitch.tv
-twitchcdn.net
-twitchsvc.net
-ttvnw.net
-api.mixpanel.com
-summerhamster.com
-global.ssl.fastly.net
-algolia.net
 
 ## krzyzowki
 szarada.net
@@ -31,7 +15,7 @@ transferuj.pl
 tpay.com
 
 
-4ufos.com
+4ufos.com  # not working
 additional-creatures.fandom.com
 ancientpages.com
 blueridgecountry.com
@@ -46,18 +30,21 @@ grashuette.net
 great-spacing.com
 innemedium.pl
 koniec-swiata.org
+latest-ufo-sightings.net
 legendsofamerica.com
 misterio.tv
 paranormalium.pl
 paranormalne.pl
 paranormalpl.wordpress.com
+pararational.com
 swiatbeztajemnic.eu
 tajemnice-swiata.pl
 theyfly.com
 ufodigest.com
-ufodigetstblog.files.wordpress.com
+ufodigetstblog.files.wordpress.com  # not working
+ufodigetstblog.wordpress.com
 ufogen.com
-ufoinformation.net
+ufoinformation.net  # not working
 ufoinsight.com
 ufomg.com
 ufonewshub.com
@@ -140,27 +127,23 @@ allthatsinteresting.com
 buiced.com
 learnreligions.com
 luckyvitamin.com
-niehs.nih.gov
+nih.gov  #niehs.nih.gov; ncbi.nlm.nih.gov
 paranorms.com
-science.howstuffworks.com
+howstuffworks.com  # check
 thespruceeats.com
 thrivemarket.com
 unbelievable.fandom.com
 unsolvedmysteries.world
 
 # pozostale
-abebooks.com
 addfreestats.com
 adumen.com
 ang.pl
 api.pinterest.com
 ariusz.pl
 authoritynutrition.com
-awesomewm.org
 berkeleywellness.com
 bgr.com
-bitbucket.org
-blogspot.com
 brainscale.net
 brilliant.org
 budovideos.com
@@ -173,21 +156,15 @@ cmp.med.pl
 cryptosrus.com
 czegoszukasz.org
 daringfireball.net
-databasesoup.com
-debuntu.org
 deccanherald.com
 dev.entrouvert.org
 dhl.com.pl
-docker.com
-doc.pytest.org
-docs.sqlalchemy.org
 duelyst.com
 duolingo.com
 effbot.org
 ehow.com
 elanaspantry.com
 elektronikab2b.pl
-ethereum.gitbooks.io
 faqs.org
 foodcleaner.pl
 food.ndtv.com
@@ -199,12 +176,9 @@ gulfnews.com
 healthy-ojas.com
 heartfulnessmagazine.com
 heartfulness.org
-helion.pl
 hindawi.com
 img.wonderhowto.com
 independent.co.uk
-iotdev.m2s.pl
-ipv6leak.com
 issuu.com
 jkcrypto.com
 journals.plos.org
@@ -221,28 +195,19 @@ lvh.io
 m2s.pl
 magicznyogrod.pl
 mahajana.net
-man7.org
 mariuszalin.pl
 martabrzoza.pl
 meganiusy.com
 mind-your-reality.com
 naturaltherapypages.com.au
 nautil.us
-ncbi.nlm.nih.gov
 nearlyfreespeech.net
 neon24.pl
-neovim.io
 niezalezna.pl
 nrdc.org
 nutritiondata.self.com
-oh-my.fish
-onethingwell.org
-openssl.org
 opensubtitles.org
 ossblog.org
-overclock.net
-overclockers.com
-overclockers.com.au
 paranormalpl.files.wordpress.com
 pbs.twimg.com
 pch24.pl
@@ -276,32 +241,24 @@ sqlalche.me
 srtech.pl
 strategywiki.org
 subscene.com
-techspot.com
 teksty.gildia.pl
 tfwiki.net
 thenextweb.com
 the-postillon.com
 tmhome.com
 tm.org
-tox.chat
-travis-ci.org
 twimg.com
 ubuntuforums.org
 unitywoods.com
 universityhealthnews.com
 washingtonpost.com
 well-typed.com
-whatismyipaddress.com
 whenisthenextsteamsale.com
 wikia.nocookie.net
 wikia-services.com
 winehq.org
 wp.com
-wttr.in
-xdebug.org
-ycombinator.com
 zendan14.co.uk
-zigbee.org
 propertyupdate.com.au
 
 echodnia.eu
@@ -314,7 +271,6 @@ lucidity.com
 macromedia.com
 langustanapalmie.pl
 golang.org
-godoc.org
 othermedium.com
 popotopie.blogspot.com
 tinyletter.com
@@ -331,14 +287,12 @@ self.com
 trylowcarb.com
 thisisbio.pl
 ketoconnect.teachable.com
-yummly.com
 content.jwplatform.com
 wsdib.com
 ockopolelubelskie.pl
 alexmarandon.com
 poczta.o2.pl
 
-alibris.com
 biedronka.pl
 borderlandsciences.org
 chyla.org
@@ -350,7 +304,8 @@ highexistence.com
 huna.blogspot.com
 iulotka.pl
 krystal28.wordpress.com
-kupdf.com
+kupdf.com  # moved
+kupdf.net
 okazjum.pl
 openlibrary.org
 pepper.pl
@@ -369,17 +324,14 @@ thenx.com
 theregister.co.uk
 ticketmaster.pl
 vebuka.com
-yippy.com
 
 3bpo.com
 wlisiejnorze.pl
-simplilearn.com
 feedburner.com
 hostowo.eu
 rssowl.org
 jeffknupp.com
 sebastianraschka.com
-cybercity.biz
 enlightenment.org
 journal.aps.org
 #edu.pl  # astrouw.edu.pl, haker.edu.pl, pw.edu.pl, mimuw.edu.pl, bitcoin.edu.pl
@@ -395,7 +347,6 @@ acancercure.org
 adform.net
 adiyogi.org
 adscale.de
-airbrake.io
 akademiaducha.pl
 akademianatury.pl
 akademiawitalnosci.pl
@@ -425,15 +376,9 @@ chandrasa.com
 cheops4.org.pl
 chili24.pl
 classistatic.com
-cloudflare.com
-coconut-lang.org
-codeacademy.com
 criteo.com
 davidicke.pl
-devpy.me
 diatlow.pl
-digidip.net
-dns.pl
 dobreziola.com
 drawspace.com
 dzone.com
@@ -451,8 +396,6 @@ exif.regex.info
 factorio.com
 fajnyogrod.pl
 fixitpc.pl
-flathub.com
-flathub.org
 focusvision.com
 followyourheart.com
 futurelearn.com
@@ -475,13 +418,8 @@ iiit.pl
 imgops.com
 instytutarete.pl
 investor.vanguard.com
-issuehunt.io
-jetbrains.com
 jonobacon.com
 kasandbox.org
-kastatic.org 
-keybase.io
-kite.com
 kovidgoyal.net
 linkedin.com
 livingflow.net
@@ -494,7 +432,6 @@ matthias.wimmer.name
 mednatur.pl
 mesmerism.info
 meyerweb.com
-microsoft.com
 mistykabb.wordpress.com
 mojanatura.pl
 monroeinstitute.org
@@ -511,7 +448,6 @@ oneriver.pl
 outbrain.com
 paleosmak.pl
 paleostrefa.pl
-palletsprojects.com
 pansa.pl
 parabara.pl
 passwordsgenerator.net
@@ -527,8 +463,6 @@ pragprog.com
 premproxy.com
 prisonplanet.pl
 proprofs.com
-protonvpn.com
-proxy-list.org
 psylo.pl
 pubmatic.com
 pustyniawmiescie.pl
@@ -536,10 +470,8 @@ railsware.com
 razorwind.ru
 rcn.com
 redirectingat.com
-repl.it
 resistance2010.com
 riddleministry.com
-robertbrzoza.pl
 rzmask.pl
 sadhguru.org
 scribdassets.com
@@ -548,14 +480,11 @@ secretscience.com
 serenity-bdd.info
 shamanelder.com
 squiglysplayhouse.com
-stackoverflow.blog
 swiatkwiatow.pl
 sygnaturazdrowia.pl
 szafrankrokus.com.pl
 tajnearchiwumwatykanskie.wordpress.com
 technopol.pl
-testandcode.com
-testingplus.me
 thecid.com
 thedivinereality.org
 thelostlambda.xyz
@@ -580,34 +509,9 @@ zbawienie.com
 zdrowoiwiecznie.pl
 zyciodajna.pl
 
-militaria.pl
-arobron.pl
-kralarms.pl
-bron.pl
-balistas.pl
-superwiatrowki.pl
-akhobby.pl
-combat.pl
-gunfire.com
-wiatrowki.pl
-otomoto.pl
-
-# escrima
-fightingreport.com
-kruki-warszawa.pl
-localgymsandfitness.com
-fmawarsaw.pl
-fmacombat.pl
-## sklepy
-gladiator-fight.com
-bokken.pl
-swordsknivesanddaggers.com  # Jo and Bo Staffs for sale
-swordsoftheeast.com         # jest też Bokken Staff, GOO
-
 adobeconnect.com
 attlasian.com
 attunedvibrations.com
-codewars.com
 czep.net
 dotykboga.pl
 friweb.pl
@@ -633,87 +537,84 @@ uzdrawianie.org
 wolnekonopie.org
 
 abby-wynne.com
-acidcave.net
-autenticgrowth.com
-doyletics.com
-easychangeworks.com
-gerrystarnes.com
-heroes3.eu
-heroes.net.pl
-innertraditions.com
-invinciblemusic.com
-ksiegawodnika.pl
-odkrywamyzakryte.com
-ohmyz.sh
-payloadz.com
-peyote.com
-psybertron.org
-redefineyourself.pl
-shamanicconnection.com
-shamanicpassages.com
-shamanicspiritmedicine.com
-shamanika.pl
-shamanportal.com
-shamansisters.com
-shamansmarket.com
-shamansway.net
-tawerna.bizgram.pl
-thefourwinds.com
-thinkific.com
-tunguska.pl
-wimhofmethod.com
-zoharstargate.com
-zshwiki.org
-castaneda.com
-tensegrity.org.uk
-tensegrity.net.au
-goldrot.de
-tensegritybristol.com
-mykajabi.com
-
 absolutoracle.com
+acidcave.net
 ariowie.com
+autenticgrowth.com
 bibliotecapleyades.net
 cainiao.com
+castaneda.com
 celestialqigong.com
 collectyoutube.com
 crunchyroll.com  # anime mozna ogladac
+doyletics.com
+easychangeworks.com
 eckharttolle.com
 eckharttollenow.com
 eckharttolletv.com
 energyenhancement.org
 esalen.org
 gaia.com
+gerrystarnes.com
 gnosticwarrior.com
+goldrot.de
+heroes3.eu
+heroes.net.pl
 huna.net.pl
+innertraditions.com
+invinciblemusic.com
 jwz.org
 kahpi.net
 kristenboyer.com
+ksiegawodnika.pl
+mykajabi.com
+odkrywamyzakryte.com
 parallelperception.com
+peyote.com
+psybertron.org
 pwn.pl
 quantumshaman.blogspot.com
+redefineyourself.pl
 rythmia.link
 sandraingerman.com
 seriouseats.com
+shamanicconnection.com
+shamanicpassages.com
+shamanicspiritmedicine.com
 shamanictraining.com
+shamanika.pl
 shamanism.eu
 shamanism.org
+shamanportal.com
+shamansisters.com
+shamansmarket.com
+shamansway.net
 soul-guidance.com
 soundstrue.com
 spirit.com
 spiritsciencecentral.com
 spiritstudios.selz.com
 taobao.com
+tawerna.bizgram.pl
+tensegritybristol.com
+tensegrity.net.au
+tensegrity.org.uk
 tesrenewal.com
+thefourwinds.com
 theocgproject.com
 thepyramidcenter.org
 thesacredscience.com
 thespiritscience.net
+thinkific.com
 thundershamanism.com
 thunderwizard.com
 toltecschool.com
 toltecwarrior.net
+tunguska.pl
 underworldclassroom.com
+wimhofmethod.com
+zoharstargate.com
+zshwiki.org
 
 #aliexpress.com
 alicdn.com
@@ -737,7 +638,6 @@ boomerangs.org
 brainhq.com
 brainly.pl
 brat.pl
-codeguru.com
 contentfilter.futuragts.com
 czasy-ostateczne.pl
 dateandtime.info
@@ -812,42 +712,66 @@ ponnuki.nazwa.pl
 bard.pl
 
 123rf.com
+7esl.com
 abbeynormalswisdomquest.com
+abbreviations.com
 aboullaite.me
 acenyethehackerguy.com
 aclockworkbrain.com
+adjectivesstarting.com
+agh.edu.pl
 agnieszkajurko.pl
 airwaterlife.com
 aligulac.com
 alkalinewaterionizers.org
 allabout-meditation.com
-allitebooks.com
-allitebooks.org
+alternativesgateway.com
 ananda.org
+anandaportland.org
 anasuya.com  # http://www.anasuya.com/trixter/
+answersprof.com
 apocowoda.blogspot.com
 aqualiv.com
-asus.com
-asus-europe.eu
-atom.io
+artofliving.site
+asanajournal.com
 atransc.org  # materialy
-avalonlibrary.net  # swietne ksiazki
+avalonlibrary.net  # swietne ksiazki np. UFO
 avstore.pl
 awakening.com
+backfixbodywork.com
+backpaincenters.com
+backpaincures.org
+backpain-guide.com
+backpainrelief4life.com
 bambielli.com
 bandcamp.com
+bangmuaythai.com
 bensound.com  # muzyka
 bensound.org
+bestmuaythaiboxing.com
+bestonlinedictionary.com
+beyogi.com
 biesiadowo.pl
 biomedcentral.com
 biontologyarizona.com
-bpython-interpreter.org
+blackandwhitejoga.blogspot.com
+boguslawszedny.com
 bractwospolszczenia.pl
+brainly.in
+brainsociety.com
+breakingmuscle.com
+buddhanet.net
+busy.org
+bythebay.io
+caliathletics.com
+calibre-ebook.com
 checkupdown.com
+chopra.com
+chronicpainhub.com
+citationmachine.net
 clearspring.co.uk
 cloudbees.com
-codeship.com
-comparitech.com
+colosseumuae.com
 consciousness.arizona.edu
 consideratecode.com
 consumerlab.com
@@ -856,15 +780,23 @@ ctl.io
 cyfrus.pl
 dagrasso.pl
 dataquest.io
+definitions.net
 depesz.com
-devopscube.com
-devteam.space
+desiquintans.com
 dezynfekcjaosmozy.wordpress.com
+diamondapproach.org
+diesphys.blogspot.com
 diffen.com  # jak slant.co
 differencebetween.net
+dobrykorepetytor.pl
+doityourselflife.org
 dolorescannon.com
 domator24.com
+doyogawithme.com
+doyouyoga.com
 dreampie.org
+drleonardcoldwell.com
+drlwilson.com
 drplechner.com
 drugs.com
 druk24h.pl
@@ -872,25 +804,54 @@ druk-ara.pl
 drukomat.pl
 drunvalo.net
 duneii.com
+dydaktyka.home.pl
+dzieje-matematyki.blogspot.com
+ebookconverter.com
 edgarcayce.org
+edupage.org
+edu.pjwstk.edu.pl
 edureka.co
+effectivemuaythai.com
+ekhartyoga.com
 ekoarka.com.pl
 eko-znaki.pl
-elektroda.pl
 elijahraymusic.com
+ellengraceobrian.com
+elmoryah.blogspot.com
+el.us.edu.pl
 enagic.com
 enagiceu.eom
-epicgames.com
+enauczanie.pg.edu.pl
+engineeringtoolbox.com
+english-grammar-revolution.com
+epainassist.com
+epomoce.pl
+epubconverter.com
+epubfilereader.com
 ergodox-ez.com
 ergonomictrends.com
+eslgrammar.org
+eslmonster.com
+espressoenglish.net  # espressoenglish.net/100-common-nouns-in-english
+etrapez.pl
 euro.com.pl
+evolve-mma.com
+evolve-vacation.com
+e-zadania.pl
+e-zyczenia.eu
 f00.esfr.pl
 f01.esfr.pl
+fastphrases.com
 filtry-do-wody.info
 filtrywodne.blogspot.com
 findip-address.com
+fizyka-smolenska.blogspot.com
+fizyka.umk.pl
 fora.pl
 foreignpolicy.com
+fractalenergymandala.com
+fuw.edu.pl
+gabbybernstein.com
 gamesdonequick.com
 ghowen.me
 gnosticteachings.org
@@ -899,32 +860,46 @@ grahamhancock.com
 greatapetrust.org
 greentohealth.com
 greentohealth.weebly.com
+gsu.edu
 gtvhacker.com
 hackaday.com
 halftome.info
+healingspiritbodywork.com
+healthbase.com
 healthfully.com
+henryford.com
 hermetic.com
 hermetics.com  # /pdf/kyballion.pdf
 hermetyk.pl  # hermetyzm
+heweliusz.org
+highbloodpressuretips.net
+higherawareness.com
+himalaya-tirtha.org
+himavanti.org
 hkkangenwater.org
 homewaterfilterssystem.com
 hotfix.pl
 hpe.com  #hpe.com/us/en/insights/articles/9-great-mechanical-keyboards-for-coders-1707.html
 hypexr.org
+idbajosiebie.net
 img.buzzfeed.com
 immune-health-solutions-for-you.com
 immunocalimmunocal.com
 immunocal.net
 immunotec.com
+i-naturalnie.blogspot.com
 indiadivine.org
 innerawakening.org
+insider.com
+integratedhealthblog.com
 invexremedies.pl  # Stanisław Szczepaniak
-ip-address.com
-ipinfo.io
-ipython.org
-it-ebooks.info
+jakubmielczarek.com
+jakzdacmaturezmatematyki.pl
 joerogan.net
+joga756.wordpress.com
+joga-a-zdrowie.blogspot.com
 joga-joga.pl
+jogaworld.com
 johnzaccone.io
 jordanbpeterson.com
 kangen.net
@@ -932,41 +907,117 @@ kangenwaterionizers.com
 keyofsolomon.org
 khjk.org  # http://www.khjk.org/log/2011/jan/carpalx.html `setxkbmap "carpalx(qgmlwy)"`
 kik.pcz.pl
+kocombatacademy.com
 kondor.de  # shaman
 kriteachings.org
+kriyarevgen.com
+kriya-yoga.com
+kriyayogainfo.net
+kryia.org
+kryia.pl
+krysztalowydomduszy.com
 krzysztof-jackowski.info
 krzysztofjackowski.pl
 kuglarstwo.pl
+kundaliniresearchinstitute.org
+kundalinirising.org
+kundaliniyogasoundhealing.com
+kwzieleniewski.wikidot.com
+lakenormanmuaythai.com
+lalitamohan-himawanti.blogspot.com
 layah.org
+layoga.com
+learning-mind.com
+learnkriyayoga.com
+leehealth.org
+lem.pl
+letslive.info
 libhunt.com
+life4jezus.blogspot.com
 lifeionizers.com
+listofnouns.net
+lukaszpasko.v.prz.edu.pl
 lunchroom.pl
 lynnemctaggart.com
 madhur.co.in
 magit.vc
+manflowyoga.com
 mantra.pl
+martialartskills.com
 masaru-emoto.net
+matemaks.pl
+matematyka24.com
+matematykadlastudenta.pl
+matematykam.pl
+matematykanatak.pl
+matematyka.pisz.pl
+matematyka.pl
+matematyka.poznan.pl
+matematyka.sosnowiec.pl
+matematykawpodstawowce.pl
+matematykazadania.wordpress.com
+matfiz24.pl
+math2.org
+math.md
+math.toronto.edu
+math.uni.lodz.pl
+math.uni.wroc.pl
+mathworks.com
+matmana6.pl
+mat.ug.edu.pl
+mat.umk.pl
+matzoo.pl
 mayoclinic.org
+medianauka.pl
 meditationtrust.com
+mega.co.nz
+mega.nz
 meltingasphalt.com  # https://www.meltingasphalt.com/interactive/going-critical/
 merkaba.pl
 metacritic.com  # oceny gier PSP
+metody-uczenia-sie.blogspot.com
+mgr-mimuw.fandom.com
 michalkiewicz.pl
 mikoterapie.pl  # http://www.mikoterapie.pl/co-robimy/metody
+mimuw.edu.pl
 mindfold.com
-monfex.pl  # ator poleca
+mini.wikidot.com
+mmainsight.com
+mmalife.com
+momswhothink.com
+monex.com
+monfex.com  # ator poleca
+morningpeace.com
+mpytko.blogspot.com
 mrwatergeek.com
+muaythaicitizen.com
+muaythai-fighting.com
+muaythaigoods.com
+muay-thai-guy.com
+muaythaipros.com
+muaythai-world.com
 multiprint.pl
+music.yahoo.com
 mxtoolbox.com
 nantespharma.pl  # nanowoda sklep
 natura24.pl
+nauki-duchowe-om.blogspot.com
+naukowiec.org
 nerdycreator.com  # https://nerdycreator.com/bookclub/best-books-on-meditation-for-beginners/
 nexon.net
 nickjanetakis.com
 nightsolo.net
 noetic.org
 notebookcheck.net
+obliczone.pl
+oblicz.to
+odrabiamy.pl
+om.edu.pl
 onextrapixel.com
+online-convert.com
+onlineconverter.com
+onlinewithananda.org
+onlymyhealth.com
 opakowania.com.pl
 openhub.net
 openprint.pl
@@ -974,9 +1025,13 @@ optimumhealth.pl
 oriontecdladomu.pl
 osalt.com
 osmoza.pl
+ourlightbody.com
 pagat.com  # zasady gier karcianych
 pageera.com
+paindoctor.com
+paleohacks.com
 paradigmshiftlondon.com
+pdfonline.com
 pdfonlinereader.com  # można czytać bez pobrania na dysk
 pdfpro.co
 pdr.net
@@ -984,45 +1039,81 @@ perpetualpc.net
 peterhedron.com
 pizzaportal.pl
 planetaziemia.net
+pl.sci.matematyka.narkive.com
+podstawaprogramowa.pl
 polskasmakuje.pl
+polskisherlockholmes.blogspot.com
+pomocstatystyczna.pl
 portal-duchowy.pl
+praktykajogi.blogspot.com
+prawdobienstwo.blogspot.com
 primalpalate.com
+projektmatematyka.pl
+projektnatura24.pl
 proxycap.com
+pwr.edu.pl
 pylonsproject.org
 pyszne.pl
 qhhtofficial.com
 quantumplayer.com
+quizlet.com
+radza-joga.blogspot.com
+randomlists.com  # randomlists.com/nouns
 rapidtyping.com  # na windows rozpoznaje keyboard layout i uczy Cię go; działa pod wine
+recreationtherapy.com
+reikirays.com
 researchgate.net
 rolapis.pl
 rozmowyzaniolami.pl  # te 5 są nt. QHHT, bardzo ciekawa technika rozmowy z Higher Self
+rozwoj-duchowy.weebly.com
+rozwojosobistyiduchowy.blogspot.com
 rp.pl
 samyama.com
 scalameta.org
 scambaitingtoolbox.com
+scholaris.pl
+scitechdaily.com
+seattlechristiancounseling.com
 secretsinplainsight.com
+sekretynauki.pl
 selfthrive.com
+senescoeu.blogspot.com
 serendipity.li
 servicenow.com
 shellcheck.net
 shigatse.pl
 shopify.com
 shroomery.org  # magic shrooms
+silversneakers.com
 sivanandaonline.org
+sivanaspirit.com
 sklep-zdrowiebezlekow.pl
 smash.gg
 speakingtree.in
 speedrun.com
 speedrunslive.com
 speedrunwr.com
+spinalflowyoga.com
+spine-health.com
+spineuniverse.com
+spiritofchange.org
 spirits.com
-spyder-ide.org
-sqlauthority.com
-stackshare.io
+statystyka-zadania.pl
+steptohealth.com
+stlchristian.edu
+stretchify.com
+studylibpl.com
+studylibpr.com
+successconsciousness.com
+sudarshankriyaa.blogspot.com
 suzannespoonerqhht.com
 swietageometria.info
+szaloneliczby.pl
+szkolnictwo.pl
+sztukadedukcji.blogspot.com
 tachyon-aanbieding.eu
 tacnetsol.com
+talkenglish.com  # talkenglish.com/vocabulary/top-1500-nouns.aspx - do Roth's memo
 tasvideos.org
 tauksuzanne.com
 tealswan.com
@@ -1030,40 +1121,55 @@ teamliquid.net
 techshout.com
 ted.com
 templeofeden.com
+templeofpeace.co
+tenkicks.com
+terapienaturalne.blogspot.com
 terriblecode.com
 theartofuniversalknowing.com  # ciekawa technika TAUK
 thecamels.org
 thedailymeditation.com
+thefreedictionary.com
 thehumansolution.com
 theresonanceproject.org
 the-spoiler.com  # http://www.the-spoiler.com/RPG/Valkyrie.studios/septerra.core.2.html
 thewaterforlife.com
 thrivemovement.com
 tiger.com.pl
+tigermuaythaionline.com
 til.codes
 tm.net.pl
+toltec.pl
+tomaszgrebski.pl
 tylkowoda.pl
+tylkozyczenia.pl
 ubereats.com
 ultimatehackingkeyboard.com
 unifycosmos.com  # https://unifycosmos.com/transcend-mental-meditation-tmm/
 uni.wroc.pl
+unsw.edu.au
 varnish-software.com
 vimcast.org
 virtux.com
+warsztaty-kursy.blogspot.com
 waterionizerexpert.com
 web-design-weekly.com
 webmd.com
+wglabmozgu.blogspot.com
 whatisimmunocal.com
 whattomine.com
 wiedzaojcapio.pl
+wierszykolandia.pl
 wikibooks.org
+wikimini.wikidot.com
 wisdomlib.org
+wkuwanko.pl
 woda.com.pl
 wodah2.com
 wodaredox.com
 wodazdrowa.com
 wodazdrowa.com.pl
 wodazycia.info
+worldclasslearning.com
 world-mysteries.com
 wsgf.org
 wydrukujemy.to
@@ -1071,15 +1177,55 @@ xahlee.info  # http://xahlee.info/kbd/ergonomic_keyboards.html
 y2d.com
 yang-sheng.com
 yogacentre.org
+yogachapter.com
 yogainternational.com
+yogakriya.org
+yogamedicine.com
+yogananda.org
 yogapedia.com
+yogaselection.com
+yogauonline.com
+yogiapproved.com
+zadania.info
+zakletewrota.blogspot.com
 zapier.com
+zbawialnia.com
+zdajmyrazem.pl
 zdrowiemojapasja.pl  # ozonator
+zezorro.blogspot.com
 zjemy.co
+zolmeister.com  # zethos.zolmeister.com - fast reading
 zrodlo-wody.blogspot.com
-mega.co.nz
-mega.nz
-insider.com
+zyczenia.pl
+zyczeniowo.pl
+
+#check
+doctorshealthpress.com
+curesdecoded.com
+anklepain.info
+top10homeremedies.com
+howtocure.com
+allremedies.com
+organicfacts.net
+healthyandnaturalworld.com
+wowremedies.com
+fastmed.com
+top8homeremedies.com
+curejoy.com
+homeremedyshop.com
+tinyqualityhomes.org
+trueremedies.com
+cureforsure.us
+livealittlelonger.com
+wisegeek.com
+powerofpositivity.com
+progressivehealth.com
+diyremedies.org
+healthyguide.com
+catuabaherb.com
+authorityremedies.com
+mafiadoc.com
+8tracks.com
 
 # non-duality:
 anaditeaching.com
@@ -1149,7 +1295,6 @@ indeed.com
 angel.co
 purelyfunctional.tv
 workingonmads.co
-upwork.com  # hire freelancer
 muscusfreelife.com
 hempking.eu
 konopnechmury.pl
@@ -1174,6 +1319,28 @@ drfranc.com
 acronymfinder.com
 ziemiaokrzemkowa.info
 
+militaria.pl
+arobron.pl
+kralarms.pl
+bron.pl
+balistas.pl
+superwiatrowki.pl
+akhobby.pl
+combat.pl
+gunfire.com
+wiatrowki.pl
+otomoto.pl
+# escrima
+fightingreport.com
+kruki-warszawa.pl
+localgymsandfitness.com
+fmawarsaw.pl
+fmacombat.pl
+## sklepy
+gladiator-fight.com
+bokken.pl
+swordsknivesanddaggers.com  # Jo and Bo Staffs for sale
+swordsoftheeast.com         # jest też Bokken Staff, GOO
 bestselfdefenseknife.com
 knifeup.com
 knifecenter.com
@@ -1303,46 +1470,46 @@ supremecommander.com
 supremecommander-alliance.com
 supremecommanderhq.com
 tl.net
+wolframalpha.com
+wolfram.com
 
 
-# benchmarki, zakupy, fotele
+# cv maker
+cvmkr.com
+resume.com
+cvonline.me
+resumebuild.com
+cvdesignr.com
+myperfectresume.com
+create-cv.com
+resumegenius.com
+resumonk.com
+canva.com
 
-akcesoriagracza.pl
-benchmark.pl
-dlagraczy.pl
-dobreprogramy.pl
-ewojownik.pl
-fotelegamingowe.com
-gadzetomania.pl
-game-debate.com
-gamersnexus.net
-gamingchairs.pl
-gamingsociety.pl
-ithardware.pl
-komputerswiat.pl
-komputronik.pl
-linustechtips.com
-mediaexpert.pl
-mediamarkt.pl
-morele.net
-najlepszerankingi.pl
-pclab.pl
-pcworld.pl
-pro-gamer.pl
-proline.pl
-prorankingi.pl
-rankingfan.net
-strefa-zakupowa.pl
-userbenchmark.com
-videogamebenchmark.net
-videotesty.pl
-x-kom.pl
-
+specshop.pl
+monkeyedge.com
+techybeasts.com
+pillaicenter.com
+pranashakty.org
+cityofshamballa.net
+highchi.com
+dragontacticalinternational.com
+spacebattles.com
+thebestbrainpossible.com
+diamond.net
 
 #=======================
 
 gumtree.pl
 
+#partycity.com
+#partydelights.co.uk
+#alibris.com
+#alibris-static.com
+#gamespot.com
+#adcov.com
+#abebooks.com  # przesestuj to bez staticów
+#abebookscdn.com
 #olx.pl
 # wikidata.org
 # ipfs.io
@@ -1361,7 +1528,6 @@ gumtree.pl
 #keepvid.pro
 #savefrom.net
 #pdfdrive.com  
-#gamespot.com
 #znak.com.pl
 #odzywianie.info.pl
 #quora.com
@@ -1438,3 +1604,11 @@ gumtree.pl
 #healthline.com  # https://www.healthline.com/nutrition/vitamin-b-foods
 #verywellhealth.com
 #wordpress.com
+#blogspot.com
+
+#4anime.to
+#9anime.to
+#9anime.nl
+#animefreak.tv
+#anime1.com
+#justdubs.org
