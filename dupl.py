@@ -5,13 +5,14 @@ import concurrent.futures as futures
 
 
 FILES = [
+    'dictionaries',
+    'economy',
     'exceptionsitelist',
-    'open-between-9-21',
     'informatics',
     'radio',
     'recipes',
-    'dictionaries',
-    'economy',
+    'rest',
+    'spiritual',
 ]
 
 
