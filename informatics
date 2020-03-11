@@ -1,5 +1,5 @@
 ###########################
-#time: 09 00 21 30 0123456
+#time: 06 00 22 00 0123456
 ###########################
 
 
@@ -21,6 +21,7 @@ antergos.com
 arcolinuxd.com
 arkadiuszcwiek.pl
 arstechnica.com
+arstechnica.net
 askubuntu.com
 asmeurer.com
 clementine-player.org
@@ -130,7 +131,6 @@ beyond3d.com
 binarytides.com
 blog.danlew.net
 blog.nknj.me
-bugsnag.com
 caktusgroup.com
 cdrf.co
 celeryproject.org
@@ -154,8 +154,6 @@ docs.peewee-orm.com
 docs.python-requests.org
 droganowoczesnegoarchitekta.pl
 easycounter.com
-ebook-dl.com  # moved
-big-dl.com
 elm-lang.org  # najlepszy zamiennik js wg. slant.co
 ericplumb.com
 etianen.com
@@ -491,21 +489,26 @@ rhinosecuritylabs.com
 securitum.pl
 soft112.com
 
+hacker10.com
 adafruit.com
 aescrypt.com
+afterdawn.com
 airbrake.io
 airvpn.org
 amd.com
 asus.com
 asus-europe.eu
 atom.io
-azavea.com
+austintek.com
 awesomewm.org
 axiacore.com
+azavea.com
 bash.org
 bitbucket.org
 bitcrack.net
 bitdegree.org
+bitfeed.co
+bittorrent.com
 blogdna.com
 bpython-interpreter.org
 cert.pl
@@ -518,14 +521,20 @@ codeacademy.com
 codeguru.com
 codementor.io
 codeship.com
+codevoila.com
 codewars.com  # idris-lang problems
 coding-geek.com
 codinghorror.com
 comparitech.com
+concentricsky.com
 creativebloq.com
+cta.tech
 cybercity.biz
 databasesoup.com
+dataprise.com
 debuntu.org
+deeplearningbook.org
+deeplearning.csail.mit.edu
 developers.google.com
 devopscube.com
 devpy.me
@@ -543,14 +552,18 @@ flathub.org
 forceflow.be
 getpostman.com  # może przechwytywać requesty przez HTTP proxy
 gitbooks.io
+glossary-tech.com
+glossarytech.com
 hackingloops.com
 happycoding.io
 hckrnews.com
 helion.pl
 hide.me
+howto.lintel.in
 html5rocks.com
 hyperskill.org
 insomnia.rest
+introtodeeplearning.com
 iotdev.m2s.pl
 ipv6leak.com
 issuehunt.io
@@ -560,14 +573,17 @@ justjoin.it
 kastatic.org 
 keybase.io
 kite.com
+k-state.edu
 leportella.com
 linuxac.org
 lostsaloon.com
 lukeplant.me.uk
+machinelearning.mit.edu
 madewithvuejs.com
 man7.org
 mandrillapp.com  # sprawdz
 micropyramid.com
+mitpress.mit.edu
 mozilla.com
 mozilla.net
 mozilla.org
@@ -578,6 +594,7 @@ nvidia.com
 oh-my.fish
 ohmyz.sh
 onethingwell.org
+openlearning.mit.edu
 opensecuritytraining.info
 openssl.org
 overclockers.com
@@ -589,6 +606,7 @@ payloadz.com
 poftut.com
 postgresql.sk
 privateinternetaccess.com
+professional.mit.edu
 protonvpn.com
 proxy-list.org
 qbittorrent.org
@@ -598,17 +616,26 @@ repl.it
 robertbrzoza.pl
 rubygarage.org
 sectools.org
+selfdrivingcars.mit.edu
+shell-tips.com
 signal.org  # secure communicotor 
 simplilearn.com
 skillcrush.com
+sloanreview.mit.edu
+spyhce.com
 stackoverflow.blog
+techaffinity.com
+tech.gsa.gov
 techjunkie.com
+technation.io
 techspot.com
 testandcode.com
 testingplus.me
 tldp.org
+tutorialsandyou.com
 unixteacher.org
 vpn.ac
+vrplumber.com
 webfx.com
 whatismyipaddress.com
 wickedlysmart.com
@@ -727,6 +754,13 @@ rapid7.com
 security-database.com
 securityfocus.com
 thekelleys.org.uk
+securiteam.com
+vulners.com
+sploitus.com
+mitre.org
+packetstormsecurity.com
+hackmag.com
+vulnview.com
 
 abclinuxa.pl
 addictivetips.com
@@ -826,7 +860,6 @@ dossy.org
 dotshare.it
 dragonflybsd.org
 dumpanalysis.org
-dunebook.com
 dwgeek.com
 easyviruskilling.com
 echorand.me
@@ -958,7 +991,7 @@ macierz.org.pl
 malwaremustdie.org
 manned.org
 markontech.com
-matrix.umcs.lublin.pl
+umcs.lublin.pl
 mattlayman.com
 megaemoji.com
 mergebase.com
@@ -987,6 +1020,7 @@ nicotine-plus.org
 nobleprog.pl
 nongnu.org
 notabug.org
+npmjs.com
 npmjs.org
 ohshitgit.com
 oldergeeks.com
@@ -1268,11 +1302,7 @@ i2symbol.com
 unicode-table.com
 techwalla.com
 mashnol.org
-allitebooks.com  # moved
-allitebooks.org
-freetechbooks.com
 matchcomcustomerservice.com  # books
-programming-book.com
 ethicalhackx.com
 timgolden.me.uk
 darkoperator.com
@@ -1285,27 +1315,29 @@ teslarati.com
 teslamotorsclub.com
 cultofmac.com
 softwareengineeringdaily.com
+staffmedia.pl
+0pointer.net
+vanrees.org
+thatoneprivacysite.net
 
-# kryptowaluty
-99bitcoins.com
-bitcoin.pl
-bitinfocharts.com
-coindesk.com
-coinmarketcap.com
-cryptocompare.com
-ethereum.org
-ethermine.org
-kryptopomocnik.pl
-motherboard.vice.com
-zukiewicz.com
-blockchain.com
-blocktribe.com
-cryptocurrencyjobs.com
-crypto.jobs
-upwork.com
-blockew.com
-cryptojobslist.com
-workana.com
+# ebooks
+mhebooklibrary.com
+itbook.store
+it-ebooks.info
+ebook-dl.com  # moved
+big-dl.com
+allitebooks.com  # moved
+allitebooks.org
+dunebook.com
+freetechbooks.com
+tradepub.com
+it-ebooks-search.info
+programming-book.com
+freecomputerbooks.com
+pdf-giant.com
+#manybooks.net
+#ebook3000.com
+#gen.lib.rus.ec
 
 siriuspro.pl  # https://siriuspro.pl/atrybuty-relnoopener-i-relnoreferrer
 jitbit.com  # https://www.jitbit.com/alexblog/256-targetblank---the-most-underestimated-vulnerability-ever/
@@ -1524,7 +1556,7 @@ fosshub.com
 further-reading.net
 gbmb.org
 gb.nrao.edu
-geekradio.com  # whats this?
+geekradio.com
 germanpearls.com
 globalsecurity.org
 godoc.org
@@ -1545,8 +1577,6 @@ ipython.org
 irnpost.com
 isaca.org
 isu.pub
-itbook.store
-it-ebooks.info
 jamesrwilcox.com
 johndcook.com
 karanpc.com
@@ -1567,7 +1597,6 @@ maxconsole.com
 mcsr.olemiss.edu
 merriam-webmaster.com
 metachris.com
-mhebooklibrary.com
 mobilevenue.com
 mozillazine.org
 mvps.org
@@ -1617,6 +1646,7 @@ slashgear.com
 snortattack.org
 squid-cache.org
 starch.mit.edu
+kb.mit.edu
 steelkiwi.com
 study.com
 tangiblesecurity.com
@@ -1638,15 +1668,139 @@ tutorialshore.com
 websetnet.net
 web.stanford.edu
 wikitechy.com
-#www.cnet.com  # check, cnet.com is in the excluded because of news.cnet.com
 xdocs.net
 xion.org.pl
+techterms.com
+thesearchenginelist.com
+survivalblog.com
+spyhunter.com
+hypestat.com
+otechworld.com
+crawlstat.com
+alexa.com
+debian.pl
+#linuxmint.com
+community.linuxmint.com
+ubucentrum.net
+techonation.com
+brighterguide.com
+rootmygalaxy.net
+techopet.com
+trickizm.com
+mobupdates.com
+sreyaj.com
+geekdashboard.com
+whybytes.com
+techwiser.com
+techwhoop.com
+3dinsider.com
+cloudwards.net
+windowscentral.com
+level1techs.com
+techkeyhub.com
+droidholic.com
+ublock.org
+blog.en.uptodown.com
+geeksviral.com
+windowsclan.com
+digitalguyde.com
+theruntime.com
+errorcodeguru.com
+raymond.cc
+integratedcode.us
+techrrival.com
+itefix.net
+home-network-help.com
+experts-exchange.com
+hackertarget.com
+noip.com
+centralops.net
+rigor.com
+cloudns.net
+linuxhelp.com
+eager0.com
+packetpushers.net
+certforums.com
+mowasay.com
+securityonline.info
+docstore.mik.ua
+smalleycreative.com
+elinuxbook.com
+itsmarttricks.com
+techdrivein.com
+freesoftwaremagazine.com
+dailytechnoblog.com
+pcsteps.com
+cleverfiles.com
+videohelp.com
+wondershare.com
+sudobits.com
+techgage.com
+burnworld.com
+ccm.net
+igetintopc.com
+downloadcloud.com
+it4nextgen.com
+tipard.com
+saashub.com
+techsupportquestions.com
+winsite.com
+pcrisk.com
+myantispyware.com
+fixyourbrowser.com
+adwareremovalguides.com
+bestsecuritysearch.com
+repairwin.com
+pcvirus-lab.com
+palemoon.org
+pccaretips.com
+malwarefixes.com
+sensorstechforum.com
+malwareremovalguides.info
+mozaws.net
+firexproxy.com
+nordvpn.com
+tenbestvpns.com
+roqos.com
+purevpn.com
+iana.com
+globedrill.com
+mikeeverhart.net
+kali4hacking.com
+c-integration.com
+linux-magazine.com
+poweriso.com
+diskdoctors.com
+2buntu.com
+linuxlookup.com
+thomas-krenn.com
+file.org
+noobslab.com
+ubuntuguide.net
+liberiangeek.net
+linuxg.net
+aplawrence.com
+reasonsecurity.com
+vuldb.com
+hackinformer.com
+awe.com
+infosecaddicts.com
+betanews.com
+exploitsearch.com
+exploitsearch.blogspot.com
+g0tmi1k.com
+gotmi1k.blogspot.com
+bertman.net
+ex-parrot.com
+gelosecurity.com
+olivettiman.wordpress.com
 
 
 # benchmarki, zakupy, fotele
 
 akcesoriagracza.pl
 benchmark.pl
+chairs4gaming.com
 chairs4gaming.org
 dlagraczy.pl
 dobreprogramy.pl
@@ -1679,7 +1833,28 @@ userbenchmark.com
 videogamebenchmark.net
 videotesty.pl
 x-kom.pl
-
+websocketstest.com
+ocw.mit.edu  # https://ocw.mit.edu/courses/intro-programming/
+edx.org
+udemy.com
+coursera.org
+udacity.com
+khanacademy.org
+lynda.com
+pvtuts.com
+freecodecamp.org
+theodinproject.com
+opencourser.com
+mike.place
+xpra.org
+bitsandslices.wordpress.com
+pressthered.com
+denofgeek.com
+ecuadorminingnews.com
+flowing.systems
+compose.ioc.ee
+techreviewpro.com
+linuxinsider.com
 
 
 ###############
@@ -1692,7 +1867,6 @@ x-kom.pl
 #ubuntu.com
 #debian.org
 #voidlinux.org
-#linuxmint.com
 #alpinelinux.org
 #kali.org
 #redhat.com
