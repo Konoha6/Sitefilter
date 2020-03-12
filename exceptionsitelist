@@ -5,6 +5,7 @@
 .Include</etc/dansguardian/lists/recipes>
 .Include</etc/dansguardian/lists/rest>
 .Include</etc/dansguardian/lists/spiritual>
+.Include</etc/dansguardian/lists/to-sort>
 
 
 ##########################
@@ -34,7 +35,7 @@ info.com
 myway.com
 webcrawler.com  # 4k
 dogpile.com  # 10k
-excite.com  # 15k
+excite.com  # 15k, not working
 metacrawler.com  # 19k
 lycos.com  # 36k
 yippy.com  # 137k
@@ -102,7 +103,6 @@ nixbit.com
 osworld.pl
 linuxmissive.com
 gajim.org
-portableapps.com
 current.workingdirectory.net
 miranda-ng.org
 creep.im
@@ -127,7 +127,6 @@ static.criteo.net
 logowanie.interia.pl
 
 ## gmail
-0.client-channel.google.com
 accounts.google.com
 accounts.google.pl
 apis.google.com
@@ -163,6 +162,7 @@ tasks.google.com
 translate.google.com
 translate.google.pl
 withgoogle.com
+pay.google.com
 
 pekao.com.pl
 pekao24.pl
@@ -302,6 +302,7 @@ timeanddate.com
 online-stopwatch.com
 timer-tab.com
 insighttimer.com
+coronavirus.gov
 
 
 # statics
@@ -376,6 +377,7 @@ horizo.net
 hostinghouse.pl
 hoststrong.us
 hotjar.com
+hotjar.io
 hwcdn.net
 ib.adnxs.com
 indexww.com
@@ -419,7 +421,6 @@ ppstatic.pl
 pressablecdn.com
 profiplus.com
 progreso.pl
-qsbr.ec.quoracdn.net
 rackcdn.com
 reliablehosting.com
 resources.blogblog.net
@@ -492,6 +493,66 @@ gpcdn.pl
 sentry-cdn.com
 cdn.materialdesignicons.com
 polyfill.io
+kinstacdn.com
+alocdn.com
+api.opmnstr.com
+fastly.com
+fastly.net
+rhnh.net
+wpcdn.pl
+oreillystatic.com
+kampyle.com
+atomz.com
+cdn.neow.in
+cbsistatic.com
+ocstatic.com
+mshcdn.com
+ziffstatic.com
+tiqcdn.com
+b-cdn.net
+cdn.thisiswaldo.com
+awsstatic.com
+s81c.com
+typography.com
+udemycdn.com
+intercomcdn.com
+intercom.io
+cdn.sift.com
+skypeassets.com
+mapixl.com
+rmtag.com
+airpr.com
+docplanner.com
+js.hsleadflows.net
+js.usemessages.com
+js.hs-banner.com
+kxcdn.com
+illops.net
+innovativelanguage.com
+authorize.net
+api.rollbar.com
+ms-online.pl
+nordcdn.com
+static-upwork.com
+smartjobboard.com
+flocdn.com
+cdn.branch.io
+bp.blogspot.com
+wolframcdn.com
+taboola.com
+ning.com
+qsbr.fs.quoracdn.net
+i.stack.imgur.com
+cdn15.com
+rawgit.com
+mathjax.org
+rsms.me
+sciencedirectassets.com
+#qsbr.ec.quoracdn.net
+#redditstatic.com
+
+pons.com  # to debug
+africhthy.org  # to debug
 
 
 ##################

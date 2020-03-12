@@ -9,10 +9,12 @@ FILES = [
     'economy',
     'exceptionsitelist',
     'informatics',
+    'informatics2',
     'radio',
     'recipes',
     'rest',
     'spiritual',
+    'to-sort',
 ]
 
 
@@ -60,11 +62,12 @@ def read_file(_file):
 
 
 def print_stats(sites, excluded):
-    print('liczba stron:', len(sites))
-    print('liczba excluded:', len(excluded))
-
     duplicates = [(site, cnt) for site, cnt in sites.items() if cnt > 1]
     are_in_excluded = [site for site in sites if site in excluded]
+
+    print('liczba stron:', len(sites))
+    print('liczba excluded:', len(excluded))
+    print('liczba duplicates:', len(duplicates))
 
     if duplicates:
         print('Duplicates:')
