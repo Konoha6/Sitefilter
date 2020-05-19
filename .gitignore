@@ -2,15 +2,25 @@
 *
 
 !dupl.py
+# !google.py - API KEY
+!merge.py
+!README.md
 
 !.gitignore
 !exceptionsitelist
-!rest
+!books
+!cnc
 !dictionaries
 !economy
-!informatics
-!informatics2
+!math
 !radio
 !recipes
+!rest
+!rest2
 !spiritual
-!to-sort
+
+!informatics
+!informatics2
+
+!to-sort-0
+!to-sort-1

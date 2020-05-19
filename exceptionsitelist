@@ -1,11 +1,17 @@
+.Include</etc/dansguardian/lists/books>
+.Include</etc/dansguardian/lists/cnc>
 .Include</etc/dansguardian/lists/dictionaries>
 .Include</etc/dansguardian/lists/economy>
 .Include</etc/dansguardian/lists/informatics>
+.Include</etc/dansguardian/lists/informatics2>
+.Include</etc/dansguardian/lists/math>
 .Include</etc/dansguardian/lists/radio>
 .Include</etc/dansguardian/lists/recipes>
 .Include</etc/dansguardian/lists/rest>
+.Include</etc/dansguardian/lists/rest2>
 .Include</etc/dansguardian/lists/spiritual>
-.Include</etc/dansguardian/lists/to-sort>
+.Include</etc/dansguardian/lists/to-sort-0>
+.Include</etc/dansguardian/lists/to-sort-1>
 
 
 ##########################
@@ -13,8 +19,19 @@
 ##########################
 
 localhost
+localhost:8000
+localhost:8001
+localhost:8080
+localhost:8081
+localhost:8888
+localhost:9000
+localhost:9001
+localhost:9080
+
 127.0.0.1
+192.168.0.0
 192.168.0.1
+192.168.1.0
 192.168.1.1
 
 github.com
@@ -47,6 +64,9 @@ searchencrypt.com  # 3k
 #gigablast.com  # 153k
 #ask.com
 
+telegram.org
+telegram.im
+149.154.167.91
 
 ## twitch
 twitch.tv
@@ -64,10 +84,11 @@ algolia.net
 #discordapp.net  # bad
 discordapp.com
 discord.gg
+discord.com
 weechat.org
 
 ## gadu-gadu
-gg.pl  # te dwa są istotne
+#gg.pl  # te dwa są istotne
 gadu-gadu.pl
 gemius.pl
 googlesyndication.com
@@ -113,6 +134,7 @@ support.mayfirst.org
 gajim.en.lo4d.com
 copyninja.info
 smartertools.com
+dotpay.pl
 
 
 # poczta
@@ -123,8 +145,14 @@ avatars-api.interia.pl
 tol.interia.pl
 hit.interia.pl
 iplsc.com
-static.criteo.net
+criteo.net
 logowanie.interia.pl
+hit.interia.pl
+prywatnosc.interia.pl
+supplementary-email-service.interia.pl
+account-service.interia.pl
+webmail-service.interia.pl
+tol.interia.pl
 
 ## gmail
 accounts.google.com
@@ -156,13 +184,20 @@ mail.google.com
 myaccount.google.com
 news.google.com
 ogs.google.com
+pay.google.com
 play.google.com
 support.google.com
 tasks.google.com
 translate.google.com
 translate.google.pl
 withgoogle.com
-pay.google.com
+maps.google.com
+cloud.google.com
+ai.google.com
+aa.google.com
+cse.google.com
+takeout.google.com
+adyen.com
 
 pekao.com.pl
 pekao24.pl
@@ -292,7 +327,7 @@ kacper-oleksiak.pl
 mycroftproject.com
 soonyata.home.xs4all.nl
 upc.pl
-pay.bm.pl
+bm.pl
 paybynet.com.pl
 net-speak.pl
 faforever.com
@@ -303,7 +338,12 @@ online-stopwatch.com
 timer-tab.com
 insighttimer.com
 coronavirus.gov
+sendpulse.com
+ngastatic.com
+silverchair-cdn.com
 
+pons.com  # to debug
+africhthy.org  # to debug
 
 # statics
 1e100.net
@@ -365,7 +405,6 @@ efocus.pl
 ehost.pl
 emotyw.pl
 esite.pl
-fastlane.rubiconproject.com
 feeds.noisia.nl
 firefox.com
 fontawesome.com
@@ -385,7 +424,6 @@ ip-176-31-225.eu
 ipb.na
 jatsu.pl
 jquery.com
-js-agent.newrelic.com
 js.hs-scripts.com
 js-sec.indexww.com
 js.stripe.com
@@ -547,13 +585,100 @@ cdn15.com
 rawgit.com
 mathjax.org
 rsms.me
+mqcdn.com
 sciencedirectassets.com
+assets.hearstapps.com
+cdn77.org
+academia-assets.com
+traffic.megaphone.fm
+menu-static.gog-statics.com
+exchangeratesapi.io
+cdn.iubenda.com
+vox-cdn.com
+s-msft.com
+getmdl.io
+cdn-s2s.buysellads.net
+cdn.livechatinc.com
+uibcdn.com
+cookiepro.com
+cdn.pushpushgo.com
+pubmine.com
+gitlab-static.net
+azureedge.net
+consentcdn.cookiebot.com
+s.yimg.com
+brandmetrics.com
+wsj.net
+i.dslr.net
+cdn-assets.hswstatic.com
+cdn.embedly.com
+blitzortung.de
+redcdn.pl
+ensighten.com
+foolcdn.com
+hubspot.com
+arkoselabs.com
+bnbstatic.com
+mzstatic.com
+cdn.puzzlegarage.com
+radio-api.net
+cdn.citatis.com
+btrstatic.com
+hackster-cdn.online
 #qsbr.ec.quoracdn.net
-#redditstatic.com
+hs-scripts.com
+ggpht.com
+infura.io
+mxpnl.com
+cloudcdn-img.com
+tor.us
+freshchat.com
+portis.io
+intercomassets.com
+powr.io
+gtranslate.net
+zotabox.com
+fomo.com
+zopim.com
+ecwid.com
+disqus.com
+powrcdn.com
+disquscdn.com
+powr-counter.herokuapp.com
+newrelic.com
+prismic.io
+freshworksapi.com
+graphcomment.com
+staticcdn.duckduckgo.com
+poperblocker.com
+tapecontent.net
+f-cdn.com
+olxcdn.com
+amplitude.com
+bulldogjob.com
+mailchimp.com
+sascdn.com
+zencdn.com
+idmnet.pl
+kinja-static.com
+kinja-img.com
+cdn.digitru.st
+gog-statics.com
+pdcdn1.top
+pdcdn2.top
+pdcdn3.top
+pdcdn4.top
+pdcdn5.top
 
-pons.com  # to debug
-africhthy.org  # to debug
 
+# 9anime - streamtape, but we don't need them
+#bidgear.com
+#disqusservice.com
+#runative-syndicate.com
+#defpush.com
+#st.bebi.com
+#pfdgbyoj.com
+#xvcmsfoeheu.com
 
 ##################
 #gameowls.com

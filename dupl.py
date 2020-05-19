@@ -5,24 +5,27 @@ import concurrent.futures as futures
 
 
 FILES = [
+    'cnc',
     'dictionaries',
     'economy',
     'exceptionsitelist',
     'informatics',
     'informatics2',
+    'math',
     'radio',
     'recipes',
     'rest',
+    'rest2',
     'spiritual',
-    'to-sort',
+    'to-sort-0',
+    'to-sort-1',
 ]
 
 
 def main():
     sites, excluded = {}, {}
-    max_workers = min(len(FILES), 8)
 
-    with futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
+    with futures.ThreadPoolExecutor() as executor:
         files_future = {
             executor.submit(read_file, _file) for _file in FILES
         }

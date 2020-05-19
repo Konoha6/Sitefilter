@@ -289,7 +289,6 @@ ti.com
 
 aboutdebian.com
 admin-magazine.com
-capterra.com
 coreapi.org
 dbader.org
 dedoimedo.com
@@ -458,7 +457,6 @@ osresearch.net
 partclone.org
 pocoo.org
 python-course.eu
-rk.edu.pl  # https://rk.edu.pl/pl/asynchroniczne-zadania-celery-w-projektach-django/
 ryanstutorials.net
 shellhacks.com
 simplified.guide
@@ -498,7 +496,6 @@ austintek.com
 awesomewm.org
 axiacore.com
 azavea.com
-bash.org
 bitbucket.org
 bitcrack.net
 bitdegree.org
@@ -712,29 +709,21 @@ ml-class.org
 tech.wp.pl
 ipipan.waw.pl
 zabezpieczenia.com.pl
-pg.edu.pl
 depot.ceon.pl
-informatyka.wroc.pl
-neurosoft.edu.pl
-bms.krakow.pl
 m.ciop.pl
 mlodytechnik.pl
-pk.edu.pl
 exit.pl
 intellect.pl
 imio.polsl.pl
-ukw.edu.pl
 c-labtech.net
-uph.edu.pl
-urania.edu.pl
 controlengineering.pl
 eti.pg.gda.pl
 put.poznan.pl
 statsoft.pl
 globema.pl
-uwb.edu.pl
 sztucznainteligencja.org.pl
 elsevier.com
+elsevier.io
 ujjwalkarn.me
 bdtechtalks.com
 unite.ai
@@ -769,7 +758,6 @@ rubikscode.net
 courseforfree.com
 allaboutcircuits.com
 pythonprogramminglanguage.com
-quantinsti.com
 fritz.ai
 enlight.nyc
 analyticsindiamag.com
@@ -925,7 +913,6 @@ gdatasoftware.com
 geekermag.com
 geekitdown.com
 grsecurity.net
-helpdeskgeek.com
 helpnetsecurity.com
 howtobuildsoftware.com
 interfacett.com
@@ -1419,7 +1406,6 @@ stevelosh.com
 stroustrup.com
 suchitpuri.com
 sucuri.net
-supcomfaguide.uw.hu  # faf, important
 swaywm.org
 symfonycasts.com
 sysadvent.blogspot.com
@@ -1609,10 +1595,33 @@ dlink.com
 dlink.com.ph
 d-link.co.za
 crushtheinfosecexams.com
-benzinga.com
-totalcrypto.io
 trumplearning.com
 ripplecoinnews.com
+devglan.com
+nullbeans.com
+codedost.com
+digizol.com
+jenkov.com
+java-tips.org
+codescracker.com
+trytoprogram.com
+novixys.com
+javapapers.com
+webdevtrick.com
+codesandnotes.be
+pixelstech.net
+coderanch.com
+informit.com
+javaguides.net
+codebun.com
+appsdeveloperblog.com
+narayanatutorial.com
+adeveloperdiary.com
+invisiblecomputer.wonderhowto.com
+howtodoinjava.com
+thejavaprogrammer.com
+codejava.net
+quickprogrammingtips.com
 
 
 # psp
@@ -1789,29 +1798,6 @@ delltechnologies.com
 popularinterviewquestions.info
 idginsiderpro.com
 
-# ebooks
-mhebooklibrary.com
-itbook.store
-it-ebooks.info
-ebook-dl.com  # moved
-big-dl.com
-allitebooks.com  # moved
-allitebooks.org
-dunebook.com
-freetechbooks.com
-tradepub.com
-it-ebooks-search.info
-programming-book.com
-freecomputerbooks.com
-gitbook.io
-gitbooks.io
-#b-ok.cc  # same as z-lib.org
-#pdf-giant.com
-#manybooks.net
-#ebook3000.com
-#gen.lib.rus.ec
-
-
 siriuspro.pl  # https://siriuspro.pl/atrybuty-relnoopener-i-relnoreferrer
 jitbit.com  # https://www.jitbit.com/alexblog/256-targetblank---the-most-underestimated-vulnerability-ever/
 akaptur.com
@@ -1875,7 +1861,6 @@ adres-ip.pl
 computerworld.pl
 mojip.com.pl
 teamquest.pl
-cyfronet.krakow.pl
 trybawaryjny.pl
 trinet.com.pl
 interaktywnie.com
@@ -1997,3 +1982,32 @@ pythonbasics.org
 codeboje.de
 guzalexander.com
 gadgetsguru.in
+webkod.pl
+publicdomainreview.org
+commonlounge.com
+turnkeylinux.org
+wallets.com
+bitcoinelectrum.com
+freedomnode.com
+bitcoin-en.com
+electrum-ltc.org
+bitzuma.com
+electrum.org
+crypto.review
+fxempire.com
+crunchbase.com
+genesis.com
+iconics.com
+genesischiropracticsoftware.com
+ncbs.res.in
+linux-databook.info
+interactive-maths.com
+able.bio
+rcdevs.com
+ftsafe.com
+hts.io
+blackdown.org
+pclinuxos.com
+gradle.org
+hscot.net
+#bash.org
